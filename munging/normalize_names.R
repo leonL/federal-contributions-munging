@@ -1,4 +1,4 @@
-normalize_names <- function(full_name){
+normalize_names <- function(full_names){
   
   # Clean a vector of names and output the clean string, first name, last name, and remaining characters. 
   # Cleaning consists of the following steps:
@@ -8,7 +8,8 @@ normalize_names <- function(full_name){
   # 4. replace empty names by 'anon'
   
   library(dplyr)
-    
+  library(magrittr)
+  
   ## iterate gsub over a vector of patterns (i.e. set of special characters)
   gsub2 <- function(pattern, replacement, x, ...) {      
     for(i in 1:length(pattern))
@@ -39,16 +40,9 @@ normalize_names <- function(full_name){
     
     return(normalized)
   }      
-    
-  full_name_lowered <- tolower(full_name)
   
-  nm <- coerce_to_alpha(full_name_lowered)
-  
-  nm_split <- strsplit(nm, split=' ')      
-  
-  #split full name into last name, first name and remaining characters 
-  nm_split_result <- lapply(nm_split, FUN=function(x){
-    
+  split_names <- function(x){
+    #split full name character vector into last name, first name and remaining characters   
     if (length(x)==0) x <- c('anon', 'anon') #if name field is empty, set first_name='anon', last_name='anon'
     
     n <- length(x)  
@@ -58,11 +52,13 @@ normalize_names <- function(full_name){
     
     if (length(remaining)==0) remaining <- ''    
     
-    data.frame(last_name=last_name, first_name=first_name, remaining=remaining, stringsAsFactors=F)   
+    data.frame(clean_full_name=paste0(x, collapse=" "), last_name=last_name, first_name=first_name, remaining=remaining, stringsAsFactors=F)   
   }
-  )
   
-  nm_df <- rbind_all(nm_split_result)
-  
-  return(cbind(clean_full_name=nm, nm_df)) 
+  full_names %>%
+    tolower %>% 
+    coerce_to_alpha %>%
+    strsplit(split=' ') %>%     
+    lapply(FUN=split_names) %>%
+    rbind_all    
 }
