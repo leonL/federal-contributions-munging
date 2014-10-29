@@ -112,7 +112,8 @@ target_riding <- ridings[mx[as.numeric(allPartyData[,"party_riding"])]]
 federal <- is.na(mx[allPartyData[,"party_riding"]]) & (genRidings[allPartyData[,"party_riding"]]=="" & allPartyData[,"party_riding"]!="")
 
 
-
+newdf <- cbind(allPartyData,target_riding,federal)
+write.csv(newdf, file='all_contributions_with_ridings.csv')
 
 
 #####
@@ -138,6 +139,7 @@ genTest <- function(x) {
 
 ## these are the ones that need fixing up.
 failedData <- allPartyData[failed,"party_riding"]
+
 
 failedList <- unique(failedData)
 failedList
