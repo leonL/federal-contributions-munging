@@ -22,8 +22,6 @@ set_column_names <- function(data_set)
 clean_char_columns <- function(data_set)
 {
   within(data_set, {
-    party_riding <- str_trim(party_riding)
-
     full_name <- totitle(str_trim(full_name))
     full_name[full_name == ""] <- NA
 
@@ -36,23 +34,20 @@ clean_char_columns <- function(data_set)
     postal_code <- gsub("(-|\\s)","", postal_code) # remove hyphens and whitespace
     postal_code <- toupper(postal_code)
     postal_code[postal_code == ""] <- NA
-
-    contribution_date <- str_trim(contribution_date)
   })
 }
 
-disambiguate_party_riding <- function(data_set, party_shorthand)
+generate_federal_cols <- function(data_set, party_shorthand)
 {
   within(data_set, {
-    # generate 'party' column
-    party <- official_party_names[party_shorthand]
+    party_riding <- str_trim(party_riding)
+    party_riding[party_riding == ""] <- NA
 
-    # generate 'target_riding' column
-    target_riding <- party_riding
-    target_riding[target_riding == official_party_names[party_shorthand]] <- NA
+    # generate 'party' column
+    party_name <- official_party_names[party_shorthand]
 
     # generate 'federal_contribution' column
-    federal_contribution <- is.na(target_riding)
+    federal_contribution <- (party_riding == official_party_names[party_shorthand])
   })
 }
 
@@ -80,6 +75,8 @@ adjust_errant_dates <- function(data_set, current_year)
   min_date <- as.Date(GetoptLong::qq("@{last_year}-10-01"))
 
   within(data_set, {
+    contribution_date <- str_trim(contribution_date)
+
     contribution_date <- as.Date(contribution_date, format="%b %d, %Y")
     adjusted.contribution_date <- contribution_date
 
