@@ -11,7 +11,7 @@ official_party_names <-
     Liberal="Liberal Party of Canada",
     NDP="New Democratic Party")
 province_levels <-
-  c("AB", "BC", "MB", "NB", "NL", "NS", "NT", "NU", "ON", "PE", "QC", "SK", "YT")
+  c("AB", "BC", "MB", "NB", "NL", "NS", "NT", "NU", "ON", "PE", "QC", "SK", "YT", NA)
 
 set_column_names <- function(data_set)
 {
@@ -66,7 +66,7 @@ flag_errant_contribtuion_amounts <- function(data_set)
     flag.negative_contrib <- contribution_amount < 0
 
     # contributions that exceed limits
-    flag.excessive_contrib <- contribution_amount > 120000
+    flag.exceeds_max_contrib <- contribution_amount > 120000
   })
 }
 
