@@ -3,10 +3,10 @@
 source("lib/formatting.R")
 library("GetoptLong")
 
-target_dir_name <- "1_format_flag_concat"
+target_dir_name <- "1_format_flag_concat_output"
 dir.create(target_dir_name)
 
-source_dir_name <- list.files(pattern="0")
+source_dir_name <- "0_as_submitted_raw_data"
 subfolders <- c("Bloc", "Conservative", "Green", "Liberal", "NDP")
 
 data_set <- data.frame()
