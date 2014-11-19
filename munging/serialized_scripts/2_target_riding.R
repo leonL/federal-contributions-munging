@@ -11,7 +11,6 @@ dir.create(target_dir_name)
 
 source_dir_name <- "1_format_flag_concat_output"
 date_set_file_name <- "submitted_contributions_2004_to_2013.csv"
-print(GetoptLong::qq("@{source_dir_name}/@{date_set_file_name}"))
 data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{date_set_file_name}"), encoding="UTF-8")
 
 # define set of official riding names (adding the missing ones)
