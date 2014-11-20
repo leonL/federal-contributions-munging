@@ -65,34 +65,31 @@ normalize_names <- function(full_names){
     rbind_all
 }
 
-create_link_contributor_pair_closure <- function() {
-  next_unique_contrib_id <- 1
-  return (function(pair) {
-    r1_row_num <- pair[1]
-    r2_row_num <- pair[2]
-    contrib_ids <- data_set$contributor_id
+next_unique_contrib_id <- 1
 
-    matched_names <- data_set$full_name[c(r1_row_num, r2_row_num)]
-    print(GetoptLong::qq("Linking @{matched_names[1]} with @{matched_names[2]}"))
+link_contributor_pair <- function(pair) {
+  r1_row_num <- pair[1]
+  r2_row_num <- pair[2]
+  contrib_ids <- data_set$contributor_id
 
-    if (is.na(contrib_ids[r1_row_num])) {
-      if (is.na(contrib_ids[r2_row_num])) {
-        contrib_ids[c(r1_row_num, r2_row_num)] <- next_unique_contrib_id
-        print(GetoptLong::qq("Defining new contributor_id: @{next_unique_contrib_id}"))
-        next_unique_contrib_id <<- next_unique_contrib_id + 1
-      } else {
-        contrib_ids[r1_row_num] <- contrib_ids[r2_row_num]
-      }
+  matched_names <- data_set$full_name[c(r1_row_num, r2_row_num)]
+  print(GetoptLong::qq("Linking @{matched_names[1]} with @{matched_names[2]}"))
+
+  if (is.na(contrib_ids[r1_row_num])) {
+    if (is.na(contrib_ids[r2_row_num])) {
+      contrib_ids[c(r1_row_num, r2_row_num)] <- next_unique_contrib_id
+      print(GetoptLong::qq("Defining new contributor_id: @{next_unique_contrib_id}"))
+      next_unique_contrib_id <<- next_unique_contrib_id + 1
     } else {
-      if (is.na(contrib_ids[r2_row_num])) {
-        contrib_ids[r2_row_num] <- contrib_ids[r1_row_num]
-      } else {
-        contrib_ids[contrib_ids == contrib_ids[r2_row_num]] <- contrib_ids[r1_row_num]
-      }
+      contrib_ids[r1_row_num] <- contrib_ids[r2_row_num]
     }
-    data_set$contributor_id <<- contrib_ids
-    NULL
-  })
+  } else {
+    if (is.na(contrib_ids[r2_row_num])) {
+      contrib_ids[r2_row_num] <- contrib_ids[r1_row_num]
+    } else {
+      contrib_ids[contrib_ids == contrib_ids[r2_row_num]] <- contrib_ids[r1_row_num]
+    }
+  }
+  data_set$contributor_id <<- contrib_ids
+  NULL
 }
-
-link_contributor_pair <- create_link_contributor_pair_closure()

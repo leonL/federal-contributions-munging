@@ -32,9 +32,10 @@ probable_links <- with(link_probabilities, {
 
 # remove pairs where a record is mathced to itself
 probable_links <- probable_links[probable_links$id1 != probable_links$id2, ]
-
 probable_links <- as.matrix(probable_links)
+
 data_set$contributor_id <- NA
+
 apply(probable_links, 1, link_contributor_pair)
 
 write.csv(data_set, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"))
