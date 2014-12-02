@@ -17,7 +17,7 @@ data_set_with_normed_names <- cbind(data_set, normed_names)
 print("Calculating contributor name string distances...")
 link_probabilities <- compare.linkage(
   data_set_with_normed_names, data_set_with_normed_names,
-  blockfld=9, exclude=c(1:17, 21), strcmp=18:20
+  blockfld=8, exclude=c(1:17, 20), strcmp=18:19
 )
 print("Calculating link probabilities using epiLink algo...")
 link_probabilities <- epiWeights(link_probabilities)
@@ -30,7 +30,7 @@ probable_links <- with(link_probabilities, {
   pairs[prediction == "L", 1:2]
 })
 
-# remove pairs where a record is mathced to itself
+# remove pairs where a record is matched to itself
 probable_links <- probable_links[probable_links$id1 != probable_links$id2, ]
 probable_links <- as.matrix(probable_links)
 
@@ -38,4 +38,4 @@ data_set$contributor_id <- NA
 
 apply(probable_links, 1, link_contributor_pair)
 
-write.csv(data_set, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"))
+write.csv(data_set, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"), row.names=FALSE)

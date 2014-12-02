@@ -4,7 +4,7 @@ source("lib/federal_ridings.R")
 
 library(stringr)
 library(stringdist)
-library("GetoptLong")
+library(GetoptLong)
 
 target_dir_name <- "2_target_riding_output"
 dir.create(target_dir_name)
@@ -36,8 +36,7 @@ mx <- amatch(scrubbed_target_ridings, scrubbed_official_ridings, maxDist=2)
 # add a column to the data_set with the best matching official name for every record
 target_riding <- all_official_ridings[mx[as.numeric(data_set[,"party_riding"])]]
 newdf <- cbind(data_set, target_riding)
-write.csv(newdf, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"))
-
+write.csv(newdf, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"), row.names=FALSE)
 
 # this is test code to make sure the data makes sense.
 # these are failed entries, only one in the full data 904095, has an empty party_riding

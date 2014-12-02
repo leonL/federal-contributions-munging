@@ -44,4 +44,4 @@ riding_code <- postal_code_riding_concordance[riding_posn,2]
 # creat the final data column by extracting the codes from for all the contribution rows.
 data_set$contributors_riding <- riding_code[as.numeric(data_set$postal_code)]
 
-write.csv(data_set, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"))
+write.csv(data_set, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"), row.names=FALSE)
