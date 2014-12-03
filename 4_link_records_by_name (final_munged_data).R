@@ -54,6 +54,7 @@ repeat
 }
 
 # record contributor links by setting ids
+print("assigning unique ids to linked names...")
 total_probable_links <- nrow(probable_links)
 probable_links <- as.matrix(probable_links)
 unique_name_and_postal$contributor_id <- NA
@@ -61,12 +62,26 @@ next_unique_contrib_id <- 1
 apply(probable_links, 1, link_contributor_pair)
 
 # set ids for all the unique names that were not matched
+print("assigning unique ids to remaning unique names...")
 number_without_id <- nrow(unique_name_and_postal[is.na(unique_name_and_postal$contributor_id),])
 last_unique_contrib_id <- next_unique_contrib_id + number_without_id - 1
 unique_name_and_postal$contributor_id[is.na(unique_name_and_postal$contributor_id)] <-
   c(next_unique_contrib_id:last_unique_contrib_id)
 
 # merge the newly defined contrib_ids back into the original data_set
+print("Merging contributor_ids into data set...")
 data_set <- merge(data_set, unique_name_and_postal)
 
+print("Writing csv files...")
 write.csv(data_set, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"), row.names=FALSE)
+
+# separate data by party name, and save each subset (for reasonably sized files)
+all_party_names <- levels(data_set$party_name)
+for(pname in all_party_names)
+{
+  data_party_subset <- subset(data_set, party_name==pname)
+  party_nickname <- names(official_party_names[official_party_names==pname])
+  print(GetoptLong::qq("@{munged_data_dir_name}/@{party_nickname}_@{date_set_file_name}"))
+  write.csv(data_party_subset,
+    file=GetoptLong::qq("@{munged_data_dir_name}/@{party_nickname}_@{date_set_file_name}"), row.names=FALSE)
+}

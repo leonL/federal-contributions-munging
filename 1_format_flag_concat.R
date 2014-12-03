@@ -1,5 +1,6 @@
 # concatenate all CSVs, perform basic transforms, formatting and flagging
 
+source("lib/constants.R")
 source("lib/formatting.R")
 library("GetoptLong")
 
