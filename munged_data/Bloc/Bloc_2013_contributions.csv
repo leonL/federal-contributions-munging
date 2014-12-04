@@ -1,0 +1,1088 @@
+"full_name","postal_code","party_riding","id.ec","contribution_date.ec","contribution_amount","city","province","federal_contribution","party_name","invalid_years","contribution_date.adjusted","flag.exceeds_max_contrib","flag.negative_contrib","flag.blank_contrib","target_riding","contributors_riding","contributor_id"
+"Abdallah El Khatib","H4N1C7","Bloc Québécois","388","2013-03-21",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24066,37010
+"Adam Normandin","H2G2P5","Bloc Québécois","738","2013-10-30",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-30",FALSE,FALSE,FALSE,NA,24061,41412
+"Adibas Delisle","H4E1N7","Bloc Québécois","326","2013-12-05",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-05",FALSE,FALSE,FALSE,NA,24029,37769
+"Adrienne Laplante","G1C4K3","Bloc Québécois","596","2013-04-25",30000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-25",FALSE,FALSE,FALSE,NA,24014,39158
+"Adrienne Laplante","G1C4K3","Bloc Québécois","597","2013-10-07",20000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-07",FALSE,FALSE,FALSE,NA,24014,39158
+"Agathe AP Petit","J0A1A0","Bloc Québécois Richmond--Arthabaska","18","2013-09-30",20400,"Danville","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24018,38924
+"Alain AC Chalifoux","J3P5N3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","10","2013-12-10",39500,"Sainte-Anne-de-Sorel","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5448
+"Alain AF Fournier","J0A1M0","Bloc Québécois Richmond--Arthabaska","9","2013-10-09",20400,"Warwick","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-09",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,4778
+"Alain Auclair","J0N1E0","Bloc Québécois","30","2013-07-01",4800,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","31","2013-08-01",4800,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","26","2013-03-01",2500,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","29","2013-06-01",4800,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","28","2013-05-01",4800,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","27","2013-04-01",4800,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","25","2013-02-01",2500,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","34","2013-11-01",4800,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","35","2013-12-01",4800,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","32","2013-09-01",4800,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","24","2013-01-01",2500,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Auclair","J0N1E0","Bloc Québécois","33","2013-10-01",4800,"Oka","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24004,41236
+"Alain Girard","G1S1C7","Bloc Québécois","463","2013-01-02",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-02",FALSE,FALSE,FALSE,NA,24037,38648
+"Alain Gravel","G1S1V8","Bloc Québécois","486","2013-11-02",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-02",FALSE,FALSE,FALSE,NA,24037,39126
+"Alain Marcoux","H2X4E3","Bloc Québécois","682","2013-09-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","684","2013-11-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","674","2013-01-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","675","2013-02-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","685","2013-12-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","683","2013-10-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","680","2013-07-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","678","2013-05-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","677","2013-04-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","676","2013-03-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","679","2013-06-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Marcoux","H2X4E3","Bloc Québécois","681","2013-08-15",3500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24031,40957
+"Alain Philibert","J1H3L6","Bloc Québécois","798","2013-11-04",30000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-04",FALSE,FALSE,FALSE,NA,24070,41419
+"Albert Bertrand","J3H2P7","Bloc Québécois","124","2013-12-14",40000,"Mont-Saint-Hilaire","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-14",FALSE,FALSE,FALSE,NA,24012,40769
+"Albert Guillemette","J9H6G2","Bloc Québécois","497","2013-12-21",110000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-21",FALSE,FALSE,FALSE,NA,24023,6254
+"Albert Racicot","H2P2E6","Bloc Québécois","824","2013-03-21",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24048,37160
+"Alcide Clément","J1R0A9","Bloc Québécois","250","2013-10-09",40000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-09",FALSE,FALSE,FALSE,NA,24017,41134
+"Alcide Lévesque","J5M1P3","Bloc Québécois","644","2013-06-06",11200,"Saint-Lin--Laurentides","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-06",FALSE,FALSE,FALSE,NA,24043,37812
+"Alcide Lévesque","J5M1P3","Bloc Québécois","645","2013-10-07",10000,"Saint-Lin--Laurentides","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-07",FALSE,FALSE,FALSE,NA,24043,37812
+"Alexandre Gilbert","H2J3B3","Bloc Québécois","458","2013-02-26",39000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-26",FALSE,FALSE,FALSE,NA,24031,39121
+"Alfred Bouchard","G0L1Y0","Bloc Québécois","162","2013-03-11",40000,"Notre-Dame-du-Portage","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-11",FALSE,FALSE,FALSE,NA,24056,2119
+"Alfred Bouchard","G0L1Y0","Bloc Québécois","163","2013-10-02",10000,"Notre-Dame-du-Portage","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24056,2119
+"Alfred Doiron","G0L1B0","Bloc Québécois","357","2013-03-25",40000,"Le Bic","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-25",FALSE,FALSE,FALSE,NA,24014,41376
+"Andjelka Draskovic-Lavoie","H2L4H2","Bloc Québécois","362","2013-12-18",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-18",FALSE,FALSE,FALSE,NA,24031,39086
+"André AD Deblois","J0G1M0","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","13","2013-12-10",40000,"Saint-François-du-Lac","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24018,38130
+"André AG Guillemette","G6R0T7","Bloc Québécois Richmond--Arthabaska","13","2013-10-04",20400,"Saint-Christophe-d'Ar","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-04",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,40275
+"André B. Campagna","H2X1E1","Bloc Québécois","208","2013-11-12",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-12",FALSE,FALSE,FALSE,NA,24031,39038
+"André B. Chéné","G0G1H0","Bloc Québécois","248","2013-11-23",40000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-23",FALSE,FALSE,FALSE,NA,24039,37754
+"André Beaupré","G5Y7N4","Bloc Québécois","56","2013-04-11",30000,"Saint-Georges","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-11",FALSE,FALSE,FALSE,NA,24005,35545
+"André Bouchard","G2A2E1","Bloc Québécois","164","2013-03-06",5000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-06",FALSE,FALSE,FALSE,NA,24038,41367
+"André Bouchard","G2A2E1","Bloc Québécois","165","2013-10-11",30000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-11",FALSE,FALSE,FALSE,NA,24038,41367
+"André Colpron","J4P2T5","Bloc Québécois","254","2013-12-29",40000,"Saint-Lambert","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-29",FALSE,FALSE,FALSE,NA,24065,38422
+"André Côté","G0M1E0","Bloc Québécois","259","2013-10-15",10000,"Saint-Georges","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,NA,39057
+"André Côté","G0M1E0","Bloc Québécois","258","2013-04-11",30000,"Saint-Georges","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-11",FALSE,FALSE,FALSE,NA,NA,39057
+"André Desranleau","J2G9K9","Bloc Québécois","352","2013-10-23",12500,"Granby","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-23",FALSE,FALSE,FALSE,NA,24069,5300
+"André Desranleau","J2G9K9","Bloc Québécois","351","2013-04-17",19000,"Granby","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-17",FALSE,FALSE,FALSE,NA,24069,5300
+"André Douesnard","H3V1G7","Bloc Québécois","359","2013-05-15",40500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24047,39829
+"André Dubuc","H2V1R6","Bloc Québécois","367","2013-03-07",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-07",FALSE,FALSE,FALSE,NA,24047,37001
+"André Dubuc","H2V1R6","Bloc Québécois","368","2013-10-29",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24047,37001
+"André Duval","H1B5T6","Bloc Québécois","378","2013-10-23",12500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-23",FALSE,FALSE,FALSE,NA,24028,2943
+"André Duval","H1B5T6","Bloc Québécois","377","2013-09-26",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-26",FALSE,FALSE,FALSE,NA,24028,2943
+"André Gagnon","G0J1M0","Bloc Québécois","415","2013-07-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24041,40557
+"André Gagnon","G0J1M0","Bloc Québécois","420","2013-12-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24041,40557
+"André Gagnon","G0J1M0","Bloc Québécois","419","2013-11-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24041,40557
+"André Gagnon","G0J1M0","Bloc Québécois","411","2013-03-21",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24041,40557
+"André Gagnon","G0J1M0","Bloc Québécois","417","2013-09-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24041,40557
+"André Gagnon","G0J1M0","Bloc Québécois","416","2013-08-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24041,40557
+"André Gagnon","G0J1M0","Bloc Québécois","412","2013-04-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24041,40557
+"André Gagnon","G0J1M0","Bloc Québécois","413","2013-05-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24041,40557
+"André Gagnon","G0J1M0","Bloc Québécois","414","2013-06-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24041,40557
+"André Gagnon","G0J1M0","Bloc Québécois","418","2013-10-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24041,40557
+"André Geoffrion","G1W2C4","Bloc Québécois","447","2013-12-08",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-08",FALSE,FALSE,FALSE,NA,24037,40366
+"André Gravel","H2C1C4","Bloc Québécois","488","2013-10-28",19500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-28",FALSE,FALSE,FALSE,NA,24002,39127
+"André Gravel","H2C1C4","Bloc Québécois","487","2013-09-24",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-24",FALSE,FALSE,FALSE,NA,24002,39127
+"André Joli-Coeur","G1T1X1","Bloc Québécois","544","2013-10-09",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-09",FALSE,FALSE,FALSE,NA,24037,2384
+"André Julien","H4G2S5","Bloc Québécois","548","2013-10-08",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-08",FALSE,FALSE,FALSE,NA,24024,4182
+"André Julien","H4G2S5","Bloc Québécois","547","2013-07-04",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-04",FALSE,FALSE,FALSE,NA,24024,4182
+"André Lamarre","H1K3B1","Bloc Québécois","580","2013-08-19",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-19",FALSE,FALSE,FALSE,NA,24022,41393
+"André Lemay","J0T1M0","Bloc Québécois","637","2013-09-30",40000,"La Conception","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24030,39166
+"André Levesque","J0Y2M0","Association du Bloc Québécois d'Abitibi--Baie-James--Nunavik--Eeyou","1","2013-12-31",40000,"Senneterre","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Abitibi—Baie-James—Nunavik—Eeyou",24001,5133
+"André Longtin","G9H3C1","Bloc Québécois","664","2013-04-25",30000,"Bécancour","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-25",FALSE,FALSE,FALSE,NA,24054,40624
+"André Louis-Seize","J4L4K2","Bloc Québécois","666","2013-10-17",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-17",FALSE,FALSE,FALSE,NA,24065,41290
+"André Richard","G0S2M0","Bloc Québécois","828","2013-12-16",80000,"Saint-Flavien","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,NA,24036,41422
+"André Thibault","G0K1P0","Bloc Québécois","908","2013-12-09",25000,"Sainte-Luce","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-09",FALSE,FALSE,FALSE,NA,24041,2110
+"André Tremblay","G0V1L0","Bloc Québécois Chicoutimi--Le Fjord","9","2013-12-31",40000,"Saint-Honoré","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Chicoutimi—Le Fjord",24016,2226
+"André Vallée","G1W4M9","Bloc Québécois","925","2013-09-30",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24037,41433
+"André-Bernard Guévin","H2J3T1","Bloc Québécois","496","2013-10-16",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-16",FALSE,FALSE,FALSE,NA,24031,3111
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","860","2013-09-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","859","2013-08-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","863","2013-12-13",30000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-13",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","861","2013-10-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","862","2013-11-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","857","2013-06-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","855","2013-04-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","853","2013-02-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","858","2013-07-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","854","2013-03-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","852","2013-01-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","864","2013-12-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Rodrigue","J0V1S0","Bloc Québécois","856","2013-05-15",2000,"Plaisance","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24004,41002
+"Andrée Surprenant-Racicot","H2P2E6","Bloc Québécois","891","2013-03-21",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24048,36078
+"Anne-Marie Boire-Lavigne","J0B1B0","Bloc Québécois","154","2013-12-19",40000,"Austin","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24010,36918
+"Annick Bélanger","J4S1Y9","Bloc Québécois","60","2013-02-27",30000,"Saint-Lambert","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-27",FALSE,FALSE,FALSE,NA,24011,41363
+"Antonio Thibault","G1W3T5","Bloc Québécois","909","2013-11-18",39000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24037,41427
+"Armandine Huard","J1X3W2","Bloc Québécois","530","2013-02-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","538","2013-10-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","535","2013-07-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","540","2013-12-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","533","2013-05-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","539","2013-11-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","534","2013-06-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","529","2013-01-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","537","2013-09-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","532","2013-04-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","531","2013-03-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Armandine Huard","J1X3W2","Bloc Québécois","536","2013-08-15",2500,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24010,40908
+"Ashley Watson","G1P1A7","Bloc Québécois","944","2013-09-27",50000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-27",FALSE,FALSE,FALSE,NA,24038,41317
+"Benoit B H Houde","J3T1P5","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","27","2013-01-24",40000,"Nicolet","QC",FALSE,"Bloc Québécois",FALSE,"2013-01-24",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5470
+"Benoît Bergeron","H1B3G8","Bloc Québécois","101","2013-10-02",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24028,40763
+"Benoit BM Mongeon","J3P2Z9","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","45","2013-12-10",40000,"Sainte-Anne-de-Sorel","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5434
+"Benoit Labelle","J3L6W8","Bloc Québécois","557","2013-02-15",2000,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","556","2013-01-15",2000,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","560","2013-05-15",2500,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","563","2013-08-15",2500,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","565","2013-10-15",2500,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","558","2013-03-15",2000,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","567","2013-12-15",2500,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","559","2013-04-15",2000,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","566","2013-11-15",2500,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","564","2013-09-15",2500,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","562","2013-07-15",2500,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Labelle","J3L6W8","Bloc Québécois","561","2013-06-15",2500,"Carignan","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24012,40916
+"Benoit Moreau","J3V3R9","Bloc Québécois","712","2013-11-14",100000,"Saint-Bruno-de-Montarville","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-14",FALSE,FALSE,FALSE,NA,24062,41410
+"Benoit Tessier","H1Y2N9","Bloc Québécois","899","2013-10-30",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-30",FALSE,FALSE,FALSE,NA,24061,41426
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","175","2013-05-15",3000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","181","2013-11-18",3000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","182","2013-12-16",3000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","174","2013-04-15",3000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","180","2013-10-15",3000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","173","2013-03-14",9000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-14",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","177","2013-07-31",3000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-31",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","178","2013-08-28",3000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-28",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","176","2013-06-17",3000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-17",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Bouthillette","J8T8R6","Bloc Québécois","179","2013-09-17",3000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-17",FALSE,FALSE,FALSE,NA,24020,35603
+"Bernard Courteau","J1H1B1","Bloc Québécois","266","2013-09-30",40000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24070,35653
+"Bernard Gemme","J0J1S0","Bloc Québécois","438","2013-04-15",1500,"Saint-Alexandre","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24010,41382
+"Bernard Gemme","J0J1S0","Bloc Québécois","439","2013-05-15",1500,"Saint-Alexandre","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24010,41382
+"Bernard Gemme","J0J1S0","Bloc Québécois","443","2013-09-17",1500,"Saint-Alexandre","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-17",FALSE,FALSE,FALSE,NA,24010,41382
+"Bernard Gemme","J0J1S0","Bloc Québécois","442","2013-08-28",1500,"Saint-Alexandre","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-28",FALSE,FALSE,FALSE,NA,24010,41382
+"Bernard Gemme","J0J1S0","Bloc Québécois","440","2013-06-17",1500,"Saint-Alexandre","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-17",FALSE,FALSE,FALSE,NA,24010,41382
+"Bernard Gemme","J0J1S0","Bloc Québécois","445","2013-11-18",1500,"Saint-Alexandre","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24010,41382
+"Bernard Gemme","J0J1S0","Bloc Québécois","444","2013-10-16",11500,"Saint-Alexandre","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-16",FALSE,FALSE,FALSE,NA,24010,41382
+"Bernard Gemme","J0J1S0","Bloc Québécois","437","2013-03-18",2500,"Saint-Alexandre","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-18",FALSE,FALSE,FALSE,NA,24010,41382
+"Bernard Gemme","J0J1S0","Bloc Québécois","441","2013-07-31",1500,"Saint-Alexandre","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-31",FALSE,FALSE,FALSE,NA,24010,41382
+"Bernard Landry","J0L2R0","Bloc Québécois","594","2013-04-15",40000,"Verchères","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24012,35843
+"Bernard Michaud","J3Y8M7","Bloc Québécois","703","2013-12-31",40000,"Saint-Hubert","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24062,39187
+"Bernard Sévigny","J1N0L7","Bloc Québécois","880","2013-04-04",40000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-04",FALSE,FALSE,FALSE,NA,24017,41141
+"Bernard St-Amour","H4N2Z1","Bloc Québécois","886","2013-08-28",60000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-28",FALSE,FALSE,FALSE,NA,24002,39930
+"Bernard Terreault","J4H2T8","Bloc Québécois","898","2013-10-31",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-31",FALSE,FALSE,FALSE,NA,24035,36083
+"Bertin Trottier","J3N1L7","Bloc Québécois","919","2013-12-31",40000,"Saint-Basile-le-Grand","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24012,36202
+"Bertrand Boily","G4S1T8","Bloc Québécois","145","2013-04-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","152","2013-11-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","150","2013-09-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","153","2013-12-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","148","2013-07-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","144","2013-03-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","147","2013-06-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","142","2013-01-15",1500,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","146","2013-05-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","143","2013-02-15",1500,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","151","2013-10-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Bertrand Boily","G4S1T8","Bloc Québécois","149","2013-08-15",2000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24039,39791
+"Brian Barton","G8W1N2","Bloc Québécois","48","2013-10-01",40000,"Trois-Rivières","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24072,2868
+"Bruno Lajoie","G1V1P8","Bloc Québécois","575","2013-12-08",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-08",FALSE,FALSE,FALSE,NA,24037,41391
+"Camilien Corbeil","H4E1P6","Bloc Québécois","255","2013-11-01",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24024,39055
+"Camille Bronsard","H3V1B3","Bloc Québécois","190","2013-05-01",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24047,39036
+"Camille Hamel","J9L2J4","Bloc Québécois","500","2013-10-25",40000,"Mont-Laurier","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-25",FALSE,FALSE,FALSE,NA,24030,35793
+"Carol Létourneau","G1X1T7","Bloc Québécois","643","2013-09-24",30000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-24",FALSE,FALSE,FALSE,NA,24037,41287
+"Carole CB Bouchard","J3L6B9","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","9","2013-12-10",40000,"Saint-Mathias-sur-Richelieu","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24012,38732
+"Carole CF Forcier","J9A3C8","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","19","2013-12-31",40000,"Gatineau","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24023,41344
+"Carole CL Lepage","J3P1C3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","39","2013-12-10",39500,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5427
+"Carole Duval","G5H3K6","Bloc Québécois","382","2013-04-01",4000,"Mont-Joli","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24041,41262
+"Carole Duval","G5H3K6","Bloc Québécois","381","2013-03-01",4000,"Mont-Joli","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24041,41262
+"Carole Duval","G5H3K6","Bloc Québécois","387","2013-09-01",4000,"Mont-Joli","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24041,41262
+"Carole Duval","G5H3K6","Bloc Québécois","384","2013-06-01",4000,"Mont-Joli","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24041,41262
+"Carole Duval","G5H3K6","Bloc Québécois","386","2013-08-01",4000,"Mont-Joli","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24041,41262
+"Carole Duval","G5H3K6","Bloc Québécois","385","2013-07-01",4000,"Mont-Joli","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24041,41262
+"Carole Duval","G5H3K6","Bloc Québécois","379","2013-01-01",4000,"Mont-Joli","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24041,41262
+"Carole Duval","G5H3K6","Bloc Québécois","383","2013-05-01",4000,"Mont-Joli","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24041,41262
+"Carole Duval","G5H3K6","Bloc Québécois","380","2013-02-01",4000,"Mont-Joli","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24041,41262
+"Charles CB Beauchemin","J3T1J7","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","5","2013-12-10",40000,"Nicolet","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5467
+"Charles-Eugène Blier","J4B7T6","Bloc Québécois","141","2013-05-11",50000,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-11",FALSE,FALSE,FALSE,NA,24035,5545
+"Christian CP Paquin","J8T2N6","Bloc Québécois Richmond--Arthabaska","17","2013-10-11",20400,"Gatineau","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-11",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24020,6078
+"Christian Marois","J0E2G0","Bloc Québécois","686","2013-10-11",38500,"Saint-Joachim-de-Shefford","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-11",FALSE,FALSE,FALSE,NA,24010,41405
+"Christian Ouellet","J2K3G8","Bloc Québécois","739","2013-03-11",40000,"Cowansville","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-11",FALSE,FALSE,FALSE,NA,24010,38162
+"Christiane Glaçon","H2L2W3","Bloc Québécois","468","2013-10-25",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-25",FALSE,FALSE,FALSE,NA,24031,41384
+"Christine Léonard","J5W1W4","Bloc Québécois","640","2013-12-31",30000,"L'Assomption","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24053,38480
+"Claude Allard","G1S2X9","Bloc Québécois","1","2013-11-07",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-07",FALSE,FALSE,FALSE,NA,24052,39283
+"Claude Baril","J3V4N8","Bloc Québécois","47","2013-12-20",100000,"Saint-Bruno-de-Montarville","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-20",FALSE,FALSE,FALSE,NA,24062,41360
+"Claude Bélec","J7P2G3","Bloc Québécois","69","2013-03-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","76","2013-10-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","74","2013-08-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","71","2013-05-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","75","2013-09-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","68","2013-02-28",15000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-28",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","66","2013-01-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","73","2013-07-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","70","2013-04-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","77","2013-11-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","78","2013-12-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","67","2013-02-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bélec","J7P2G3","Bloc Québécois","72","2013-06-01",1200,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24057,35552
+"Claude Bovet","J0K2E0","Bloc Québécois","183","2013-02-28",10000,"Saint-Damien","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-28",FALSE,FALSE,FALSE,NA,24008,41368
+"Claude Bovet","J0K2E0","Bloc Québécois","184","2013-10-28",20000,"Saint-Damien","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-28",FALSE,FALSE,FALSE,NA,24008,41368
+"Claude C F Forcier","J3R5E7","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","20","2013-01-17",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-01-17",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,38739
+"Claude C-ST St-Germain","J3P1E7","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","55","2013-12-10",39500,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,38752
+"Claude CC Champagne","J3P5N3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","11","2013-12-10",39500,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,38733
+"Claude CP Pothier","J0L2M0","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","53","2013-12-10",40000,"Saint-Roch-de-Richelieu","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,40625
+"Claude Debellefeuille","J0S1K0","Bloc Québécois","308","2013-08-28",5000,"Ormstown","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-28",FALSE,FALSE,FALSE,NA,24006,5044
+"Claude Debellefeuille","J0S1K0","Bloc Québécois","304","2013-04-15",5000,"Ormstown","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24006,5044
+"Claude Debellefeuille","J0S1K0","Bloc Québécois","312","2013-12-16",5000,"Ormstown","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,NA,24006,5044
+"Claude Debellefeuille","J0S1K0","Bloc Québécois","307","2013-07-31",5000,"Ormstown","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-31",FALSE,FALSE,FALSE,NA,24006,5044
+"Claude Debellefeuille","J0S1K0","Bloc Québécois","309","2013-09-17",5000,"Ormstown","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-17",FALSE,FALSE,FALSE,NA,24006,5044
+"Claude Debellefeuille","J0S1K0","Bloc Québécois","305","2013-05-15",5000,"Ormstown","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24006,5044
+"Claude Debellefeuille","J0S1K0","Bloc Québécois","306","2013-06-17",5000,"Ormstown","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-17",FALSE,FALSE,FALSE,NA,24006,5044
+"Claude Debellefeuille","J0S1K0","Bloc Québécois","311","2013-11-18",5000,"Ormstown","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24006,5044
+"Claude Debellefeuille","J0S1K0","Bloc Québécois","310","2013-10-15",5000,"Ormstown","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24006,5044
+"Claude Deblois","J3T2A1","Bloc Québécois","320","2013-08-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","321","2013-09-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","318","2013-06-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","319","2013-07-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","313","2013-01-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","324","2013-12-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","315","2013-03-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","316","2013-04-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","323","2013-11-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","317","2013-05-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","314","2013-02-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Deblois","J3T2A1","Bloc Québécois","322","2013-10-01",2000,"Nicolet","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24054,39824
+"Claude Déom","J5J0H2","Bloc Québécois","341","2013-03-22",30000,"Sainte-Sophie","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-22",FALSE,FALSE,FALSE,NA,NA,41373
+"Claude Desrosiers","H7H2P9","Bloc Québécois","353","2013-02-12",40000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-12",FALSE,FALSE,FALSE,NA,24040,4397
+"Claude Ferron","G1V0B6","Bloc Québécois","392","2013-09-30",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24037,40853
+"Claude Guimond","G5N5G6","Bloc Québécois","499","2013-11-12",12500,"Rimouski","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-12",FALSE,FALSE,FALSE,NA,24056,39694
+"Claude Guimond","G5N5G6","Bloc Québécois","498","2013-02-08",20000,"Rimouski","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-08",FALSE,FALSE,FALSE,NA,24056,39694
+"Claude Leblond","J0C1M0","Bloc Québécois","624","2013-12-04",40000,"Saint-Léonard-d'Aston","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-04",FALSE,FALSE,FALSE,NA,24018,41400
+"Claude Lefebvre","G1K1E6","Bloc Québécois","633","2013-12-23",50000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-23",FALSE,FALSE,FALSE,NA,24052,35895
+"Claude Lemire","H1X2K3","Bloc Québécois","638","2013-12-16",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,NA,24061,37097
+"Claude Lizotte","G4R3T2","Bloc Québécois","661","2013-10-31",26667,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-31",FALSE,FALSE,FALSE,NA,24039,41404
+"Claude Lizotte","G4R3T2","Bloc Québécois","662","2013-12-02",13333,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-02",FALSE,FALSE,FALSE,NA,24039,41404
+"Claude Pilote","G8H2H8","Bloc Québécois Roberval--Lac-Saint-Jean","7","2013-05-16",40000,"Roberval","QC",FALSE,"Bloc Québécois",FALSE,"2013-05-16",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",24060,37685
+"Colette Garon","G3H0G9","Bloc Québécois","426","2013-12-04",40000,"Pont-Rouge","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-04",FALSE,FALSE,FALSE,NA,NA,40873
+"Daniel D D Dubuc","J3T1E4","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","16","2013-12-16",39500,"Nicolet","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41343
+"Daniel Daigneault","H1A2N4","Bloc Québécois","284","2013-05-02",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-02",FALSE,FALSE,FALSE,NA,24028,39821
+"Daniel DG Gaudreau","G6R0R4","Bloc Québécois Richmond--Arthabaska","11","2013-10-02",20400,"Saint-Christopher-d'Ar","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,41457
+"Daniel DT Traversy","J3R2S1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","56","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,40627
+"Daniel Duranleau","H1W3Z2","Bloc Québécois","376","2013-02-27",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-27",FALSE,FALSE,FALSE,NA,24021,40356
+"Daniel Gomez","H2P2G4","Bloc Québécois","478","2013-10-01",1500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","479","2013-11-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","477","2013-09-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","472","2013-04-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","480","2013-12-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","474","2013-06-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","470","2013-02-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","476","2013-08-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","475","2013-07-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","471","2013-03-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","473","2013-05-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel Gomez","H2P2G4","Bloc Québécois","469","2013-01-01",2000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24048,35775
+"Daniel L Charron","J1H6C2","Bloc Québécois Compton--Stanstead","2","2013-08-28",40000,"Sherbrooke","QC",FALSE,"Bloc Québécois",FALSE,"2013-08-28",FALSE,FALSE,FALSE,"Compton—Stanstead",24017,5162
+"Daniel Leblond","G0A1H0","Bloc Québécois","625","2013-12-16",40000,"Boischatel","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,NA,24007,38943
+"Daniel Mainville","J3Y5K2","Bloc Québécois","670","2013-09-30",15000,"Saint-Hubert","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24011,5521
+"Daniel Mainville","J3Y5K2","Bloc Québécois","669","2013-03-04",20000,"Saint-Hubert","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24011,5521
+"Daniel Michaud","J4M2T3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","44","2013-12-10",40000,"Longueuil","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24035,5595
+"Daniel Morin","G1S3E6","Bloc Québécois","714","2013-04-23",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-23",FALSE,FALSE,FALSE,NA,24052,2354
+"Daniel Pinet","H2K0A3","Bloc Québécois","801","2013-10-02",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24031,3116
+"Daniel Sarrazin","J9A1B7","Bloc Québécois","872","2013-12-31",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24023,36052
+"David Fournier","H7R5K6","Bloc Québécois","402","2013-11-28",40000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-28",FALSE,FALSE,FALSE,NA,24033,41379
+"David Gagnon","J3A1E7","Bloc Québécois","421","2013-04-17",40000,"Saint-Jean-sur-Richelieu","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-17",FALSE,FALSE,FALSE,NA,24064,41380
+"David Henderson","V8N5W8","Bloc Québécois","523","2013-05-23",50000,"Victoria, B.C.","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-23",FALSE,FALSE,FALSE,NA,59035,34327
+"David Henderson","V8N5W8","Bloc Québécois","524","2013-10-23",50000,"Victoria, B.C.","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-23",FALSE,FALSE,FALSE,NA,59035,34327
+"Denis Brault","H7S1Y1","Bloc Québécois","188","2013-12-19",40000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24032,4478
+"Denis Châteauneuf","J4V2K4","Bloc Québécois","246","2013-10-21",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-21",FALSE,FALSE,FALSE,NA,24065,41250
+"Denis DB Brouillard","J1T4B8","Bloc Québécois Richmond--Arthabaska","4","2013-09-15",30000,"Asbestos","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,41453
+"Denis Demers","J1H6H1","Bloc Québécois","328","2013-08-25",40000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-25",FALSE,FALSE,FALSE,NA,24017,5165
+"Denis DP Péloquin","J3R5R1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","49","2013-12-10",39500,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5463
+"Denis Gautron","J0X2G0","Bloc Québécois","433","2013-04-02",40000,"Pontiac","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-02",FALSE,FALSE,FALSE,NA,24023,41381
+"Denis Laître","J6S1A5","Bloc Québécois","574","2013-12-17",40000,"Salaberry-de-Valleyfield","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-17",FALSE,FALSE,FALSE,NA,24006,41277
+"Denis Leduc","J9L1B4","Bloc Québécois","630","2013-11-08",30000,"Mont-Laurier","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-08",FALSE,FALSE,FALSE,NA,24030,6286
+"Denis Séguin","H1E4T9","Bloc Québécois","879","2013-12-20",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-20",FALSE,FALSE,FALSE,NA,24022,37184
+"Denis Trottier","G0W2G0","Bloc Québécois Roberval--Lac-Saint-Jean","10","2013-10-16",40000,"Péribonka","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-16",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",24060,41358
+"Denise Gaudreau-Simoneau","H7G1N4","Bloc Québécois","431","2013-09-30",10000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24003,40878
+"Denise Gaudreau-Simoneau","H7G1N4","Bloc Québécois","430","2013-02-27",20000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-27",FALSE,FALSE,FALSE,NA,24003,40878
+"Diane Boivin","J1X6X3","Bloc Québécois de Brome--Missisquoi","3","2013-12-16",20000,"Orford",NA,FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Brome—Missisquoi",24010,40780
+"Diane Bourgeois","J0C1N0","Bloc Québécois","168","2013-03-04",40000,"Saint-Lucien","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24018,41245
+"Diane Bourgeois","J0C1N0","Bloc Québécois","170","2013-10-09",20000,"Saint-Lucien","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-09",FALSE,FALSE,FALSE,NA,24018,41245
+"Diane Bourgeois","J0C1N0","Bloc Québécois","169","2013-06-26",2953,"Saint-Lucien","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-26",FALSE,FALSE,FALSE,NA,24018,41245
+"Diane Fortin","J8Z2P1","Bloc Québécois","401","2013-12-19",110000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24023,6180
+"Diane Pronovost","G3A1E2","Bloc Québécois","822","2013-10-14",40000,"Saint-Augustin-de-Desmaures","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-14",FALSE,FALSE,FALSE,NA,24037,41306
+"Dominique Boivin","G1K9G7","Bloc Québécois","159","2013-10-29",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24052,40781
+"Dominique Faille","J7R1W7","Bloc Québécois","389","2013-12-06",30000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-06",FALSE,FALSE,FALSE,NA,NA,5954
+"Donald DD Desharnais","G6L4C5","Bloc Québécois Richmond--Arthabaska","8","2013-10-03",20400,"Princeville","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-03",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24042,40271
+"Donald Monahan","J7K3P3","Association de circonscription du Bloc Québécois Montcalm","3","2013-12-31",40000,"Mascouche","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Montcalm",24043,41452
+"Donald R. Cyr","J8Z3L8","Bloc Québécois","273","2013-10-29",40500,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24023,40346
+"Édouard Cadotte","H3M2P9","Bloc Québécois","206","2013-12-17",22000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-17",FALSE,FALSE,FALSE,NA,24002,41248
+"Élaine Zakaïb","J3P5N3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","57","2013-12-31",40000,"Sainte-Anne-de-Sorel","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5445
+"Emmanuel Marcotte","J8Z1A4","Bloc Québécois","673","2013-12-18",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-18",FALSE,FALSE,FALSE,NA,24023,6171
+"Emmanuel Y. Garon","G6V4B4","Bloc Québécois","427","2013-12-27",40000,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-27",FALSE,FALSE,FALSE,NA,24034,40874
+"Eric Bédard","H1X2G2","Bloc Québécois","58","2013-12-04",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-04",FALSE,FALSE,FALSE,NA,24061,41362
+"Estelle Dufour","J0E1P0","Bloc Québécois de Brome--Missisquoi","1","2013-10-18",40000,"Eastman",NA,FALSE,"Bloc Québécois",FALSE,"2013-10-18",FALSE,FALSE,FALSE,"Brome—Missisquoi",24010,38153
+"Fabiola Bergeron","G8H1E8","Bloc Québécois","108","2013-08-15",4000,"Roberval","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24060,40319
+"Fabiola Bergeron","G8H1E8","Bloc Québécois","106","2013-06-15",4000,"Roberval","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24060,40319
+"Fabiola Bergeron","G8H1E8","Bloc Québécois","109","2013-09-15",4000,"Roberval","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24060,40319
+"Fabiola Bergeron","G8H1E8","Bloc Québécois","105","2013-05-15",4000,"Roberval","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24060,40319
+"Fabiola Bergeron","G8H1E8","Bloc Québécois","103","2013-03-15",4000,"Roberval","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24060,40319
+"Fabiola Bergeron","G8H1E8","Bloc Québécois","107","2013-07-15",4000,"Roberval","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24060,40319
+"Fabiola Bergeron","G8H1E8","Bloc Québécois","110","2013-10-15",4000,"Roberval","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24060,40319
+"Fabiola Bergeron","G8H1E8","Bloc Québécois","104","2013-04-15",4000,"Roberval","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24060,40319
+"Fabiola Bergeron","G8H1E8","Bloc Québécois","102","2013-02-15",4000,"Roberval","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24060,40319
+"Fernand Allard","H7M5H1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","1","2013-01-22",25000,"Laval","QC",FALSE,"Bloc Québécois",FALSE,"2013-01-22",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24003,41438
+"Fernand Allard","H7M5H2","Association de circonscription du Bloc Québécois Montcalm","1","2013-02-08",25000,"Vimont-Laval","QC",FALSE,"Bloc Québécois",FALSE,"2013-02-08",FALSE,FALSE,FALSE,"Montcalm",24003,41451
+"Fernande Tremblay-Dallaire","G7B1C9","Bloc Québécois","918","2013-09-11",40000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-11",FALSE,FALSE,FALSE,NA,24016,41039
+"Fleurette F G-S Grenier-St-Germain","J3P2W2","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","25","2013-01-23",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-01-23",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,37445
+"France Bonsant","J1H5Y1","Bloc Québécois Compton--Stanstead","1","2013-08-24",40000,"Sherbrooke","QC",FALSE,"Bloc Québécois",FALSE,"2013-08-24",FALSE,FALSE,FALSE,"Compton—Stanstead",24017,5159
+"Francine Cuerrier","J0P1P0","Bloc Québécois","272","2013-12-27",40000,"Rigaud","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-27",FALSE,FALSE,FALSE,NA,24073,5000
+"Francis Pigeon","H1T2R3","Bloc Québécois","799","2013-11-07",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-07",FALSE,FALSE,FALSE,NA,24021,41420
+"François Aumond","G3B1R9","Bloc Québécois","38","2013-03-03",40000,"Lac-Beauport","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-03",FALSE,FALSE,FALSE,NA,NA,39002
+"François Aumond","G3B1R9","Bloc Québécois","39","2013-10-02",40000,"Lac-Beauport","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,NA,39002
+"François Beaudoin","J1Z1V8","Bloc Québécois Drummond","1","2013-12-19",40000,"Saint-Cyrille-de-Wendover","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,"Drummond",24018,36736
+"François Bellemare","H2S2K4","Bloc Québécois","84","2013-12-31",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24061,39780
+"François Bérard","H1K5C8","Bloc Québécois","99","2013-10-10",50000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-10",FALSE,FALSE,FALSE,NA,24022,35564
+"François Campion","J3E1P3","Bloc Québécois","209","2013-12-19",40000,"Sainte-Julie","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24074,5387
+"François Charbonneau","J0E1M0","Bloc Québécois de Brome--Missisquoi","2","2013-12-04",20000,"Dunham",NA,FALSE,"Bloc Québécois",FALSE,"2013-12-04",FALSE,FALSE,FALSE,"Brome—Missisquoi",24010,41446
+"François Chartier","H8Y2W6","Bloc Québécois","245","2013-12-31",120000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24049,37753
+"François Morin","J4L2J4","Bloc Québécois","715","2013-03-04",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24065,35956
+"Frédéric Côté","J2A2N2","Bloc Québécois","260","2013-11-29",40000,"Drummondville","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-29",FALSE,FALSE,FALSE,NA,24018,5221
+"Frédéric FM Metthé","G0P1C0","Bloc Québécois Richmond--Arthabaska","16","2013-10-01",20400,"Notre-Dame-de-Ham","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24042,41460
+"Gabriel Doyon","J2S8W3","Bloc Québécois","360","2013-12-31",30000,"Saint-Hyacinthe","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24063,41377
+"Gabriel GV Viens","G6T1E9","Bloc Québécois Richmond--Arthabaska","21","2013-10-17",20400,"Victoriaville","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-17",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,41461
+"Gaétan Breault","J3L2Z9","Bloc Québécois","189","2013-11-18",40000,"Chambly","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24012,39329
+"Gaétan Girard","G7H6P7","Bloc Québécois Chicoutimi--Le Fjord","4","2013-12-31",40000,"Saguenay","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Chicoutimi—Le Fjord",24016,2785
+"Gaëtan GSA St-Arnaud","G6P4V1","Bloc Québécois Richmond--Arthabaska","20","2013-10-17",20400,"Victoriaville","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-17",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,2700
+"Gaétane Viger","J4H3J1","Bloc Québécois","929","2013-03-28",20000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-28",FALSE,FALSE,FALSE,NA,24035,37869
+"Gaétane Viger","J4H3J1","Bloc Québécois","930","2013-10-08",10000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-08",FALSE,FALSE,FALSE,NA,24035,37869
+"Gaston Pinard","J2B3C6","Bloc Québécois","800","2013-12-20",40000,"Drummondville","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-20",FALSE,FALSE,FALSE,NA,24018,40439
+"Gemma Gauthier","J1X7P4","Bloc Québécois","432","2013-07-31",40000,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-31",FALSE,FALSE,FALSE,NA,24010,41267
+"Gemma Keroack","H9S5X6","Bloc Québécois","554","2013-11-21",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-21",FALSE,FALSE,FALSE,NA,24045,4703
+"Georges Gravel","G3Z2B9","Bloc Québécois","489","2013-09-30",40000,"Baie-Saint-Paul","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24014,41272
+"Georges Ouellet","H2S0B6","Bloc Québécois","740","2013-04-04",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-04",FALSE,FALSE,FALSE,NA,NA,41413
+"Georgette Lévesque-Lemyre","J7P2X8","Bloc Québécois","646","2013-10-01",40000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24057,41403
+"Gérard Desbois","J1J1Z3","Bloc Québécois","346","2013-02-28",20000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-28",FALSE,FALSE,FALSE,NA,24070,35674
+"Gérard Desbois","J1J1Z3","Bloc Québécois","347","2013-10-07",20000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-07",FALSE,FALSE,FALSE,NA,24070,35674
+"Gérard Descheneaux","J6E3E7","Bloc Québécois","348","2013-03-11",40000,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-11",FALSE,FALSE,FALSE,NA,24025,5789
+"Gérard Gendron","J2H2M5","Association du Bloc Québécois de Shefford","2","2013-09-27",40000,"Granby","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-27",FALSE,FALSE,FALSE,"Shefford",24069,5302
+"Gérard Houle","J8V4A8","Bloc Québécois","528","2013-10-21",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-21",FALSE,FALSE,FALSE,NA,24020,40381
+"Gérard Lauzé","J4Z1M8","Bloc Québécois","619","2013-09-30",30000,"Brossard","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24011,35869
+"Gérard Therrien","H1N1X7","Bloc Québécois","904","2013-03-02",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-02",FALSE,FALSE,FALSE,NA,24028,2994
+"Gérard Therrien","H1N1X7","Bloc Québécois","906","2013-08-08",7500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-08",FALSE,FALSE,FALSE,NA,24028,2994
+"Gérard Therrien","H1N1X7","Bloc Québécois","905","2013-04-26",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-26",FALSE,FALSE,FALSE,NA,24028,2994
+"Gérard Vibien","H3E1M2","Bloc Québécois","928","2013-09-30",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24024,36116
+"Germain Bilodeau","H2K4J9","Bloc Québécois","137","2013-12-12",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-12",FALSE,FALSE,FALSE,NA,24031,39018
+"Germain Bilodeau","H2K4J9","Bloc Québécois","136","2013-05-23",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-23",FALSE,FALSE,FALSE,NA,24031,39018
+"Germain Gauvin","G1S3E6","Bloc Québécois","434","2013-11-22",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-22",FALSE,FALSE,FALSE,NA,24052,40484
+"Germain Julien","G3A1N4","Bloc Québécois","550","2013-10-15",40000,"Saint-Augustin-de-Desmaures","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24051,35811
+"Germain Julien","G3A1N4","Bloc Québécois","549","2013-03-21",40000,"Saint-Augustin-de-Desmaures","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24051,35811
+"Ghislain Bernier","G1W3C1","Bloc Québécois","120","2013-09-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","112","2013-01-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","122","2013-11-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","117","2013-06-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","113","2013-02-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","116","2013-05-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","123","2013-12-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","121","2013-10-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","119","2013-08-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","118","2013-07-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","114","2013-03-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Bernier","G1W3C1","Bloc Québécois","115","2013-04-01",3335,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24037,36904
+"Ghislain Girard","G8A1A4","Bloc Québécois","466","2013-06-19",10000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-19",FALSE,FALSE,FALSE,NA,24026,2823
+"Ghislain Girard","G8A1A4","Bloc Québécois","465","2013-06-14",10000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-14",FALSE,FALSE,FALSE,NA,24026,2823
+"Ghislain Girard","G8A1A4","Bloc Québécois","464","2013-03-25",10000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-25",FALSE,FALSE,FALSE,NA,24026,2823
+"Ghislain Miousse","G4W1Z1","Bloc Québécois","706","2013-09-25",40000,"Matane","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-25",FALSE,FALSE,FALSE,NA,24041,2553
+"Ghislaine Martineau","H2R2S8","Bloc Québécois","697","2013-10-15",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24048,38492
+"Ghislaine Martineau","H2R2S8","Bloc Québécois","691","2013-04-15",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24048,38492
+"Ghislaine Martineau","H2R2S8","Bloc Québécois","698","2013-11-18",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24048,38492
+"Ghislaine Martineau","H2R2S8","Bloc Québécois","695","2013-08-28",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-28",FALSE,FALSE,FALSE,NA,24048,38492
+"Ghislaine Martineau","H2R2S8","Bloc Québécois","694","2013-07-31",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-31",FALSE,FALSE,FALSE,NA,24048,38492
+"Ghislaine Martineau","H2R2S8","Bloc Québécois","696","2013-09-17",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-17",FALSE,FALSE,FALSE,NA,24048,38492
+"Ghislaine Martineau","H2R2S8","Bloc Québécois","693","2013-06-17",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-17",FALSE,FALSE,FALSE,NA,24048,38492
+"Ghislaine Martineau","H2R2S8","Bloc Québécois","692","2013-05-15",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24048,38492
+"Ghyslain Parent","J0A1E0","Bloc Québécois","789","2013-10-22",40000,"Saint-Albert","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-22",FALSE,FALSE,FALSE,NA,24018,4777
+"Gilbert Beaudet","G2B3X9","Bloc Québécois","53","2013-02-27",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-27",FALSE,FALSE,FALSE,NA,24038,35539
+"Gilbert Paquette","H2J3V6","Bloc Québécois","757","2013-01-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","766","2013-10-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","758","2013-02-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","760","2013-04-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","762","2013-06-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","761","2013-05-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","763","2013-07-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","765","2013-09-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","759","2013-03-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","764","2013-08-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","767","2013-11-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilbert Paquette","H2J3V6","Bloc Québécois","768","2013-12-01",3000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24031,37136
+"Gilberte Lambert","G0S2M0","Bloc Québécois","581","2013-12-16",40000,"Saint-Flavien","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,NA,24036,41278
+"Gilles Aubé","J8Z2P1","Bloc Québécois","22","2013-11-13",110000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-13",FALSE,FALSE,FALSE,NA,24023,40311
+"Gilles Bélisle","J8N1B2","Bloc Québécois","79","2013-12-20",40000,"Val-des-Monts","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-20",FALSE,FALSE,FALSE,NA,24050,35553
+"Gilles Casgrain","H2L3E9","Bloc Québécois","219","2013-07-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","224","2013-12-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","213","2013-01-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","223","2013-11-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","221","2013-09-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","222","2013-10-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","220","2013-08-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","215","2013-03-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","217","2013-05-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","216","2013-04-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","214","2013-02-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Casgrain","H2L3E9","Bloc Québécois","218","2013-06-01",5000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24031,3128
+"Gilles Côté","J4G2L5","Bloc Québécois","261","2013-12-04",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-04",FALSE,FALSE,FALSE,NA,24035,40813
+"Gilles Duceppe","H1Y3M6","Bloc Québécois","369","2013-03-04",25000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24061,40354
+"Gilles Duceppe","H1Y3M6","Bloc Québécois","370","2013-09-30",25000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24061,40354
+"Gilles GB Blais","J3T1K4","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","8","2013-12-10",39500,"Nicolet","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41340
+"Gilles Gingras","H7B1B2","Bloc Québécois","462","2013-09-30",40000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24003,40887
+"Gilles GJ Jutras","J3T1N9","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","33","2013-12-10",40000,"Nicolet","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41347
+"Gilles Grenier","G1L1H1","Bloc Québécois","492","2013-12-31",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24007,2311
+"Gilles Héroux","J3V3W7","Bloc Québécois","527","2013-12-02",40000,"Saint-Bruno-de-Montarville","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-02",FALSE,FALSE,FALSE,NA,24062,38246
+"Gilles Lalonde","H1T2W7","Bloc Québécois","577","2013-10-29",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24021,40391
+"Gilles Lalonde","H1T2W7","Bloc Québécois","576","2013-03-04",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24021,40391
+"Gilles Morin","G0A3L0","Bloc Québécois","717","2013-12-13",20000,"Saint-Casimir","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-13",FALSE,FALSE,FALSE,NA,24051,41295
+"Gilles Morin","G0A3L0","Bloc Québécois","716","2013-11-29",20000,"Saint-Casimir","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-29",FALSE,FALSE,FALSE,NA,24051,41295
+"Gilles Morin","G0A3L0","Bloc Québécois","718","2013-10-02",40000,"Saint-Casimir","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24051,41295
+"Gilles Paradis","G6Z3J9","Bloc Québécois","775","2013-05-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","777","2013-07-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","779","2013-09-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","776","2013-06-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","780","2013-09-17",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-17",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","773","2013-04-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","772","2013-03-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","782","2013-11-18",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","774","2013-04-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","770","2013-01-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","783","2013-12-16",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","778","2013-08-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","781","2013-10-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Paradis","G6Z3J9","Bloc Québécois","771","2013-02-15",1500,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24036,41415
+"Gilles Thouin","J5R2W4","Bloc Québécois","911","2013-12-29",40000,"La Prairie","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-29",FALSE,FALSE,FALSE,NA,24011,38762
+"Gilles-François Clermont","H8Z2Z3","Bloc Québécois","252","2013-09-26",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-26",FALSE,FALSE,FALSE,NA,24049,35639
+"Gilles-François Clermont","H8Z2Z3","Bloc Québécois","251","2013-02-28",19500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-28",FALSE,FALSE,FALSE,NA,24049,35639
+"Ginette Fournier","J5Z4G2","Bloc Québécois","403","2013-10-20",50000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-20",FALSE,FALSE,FALSE,NA,24053,40860
+"Ginette Robitaille","J0K2E0","Bloc Québécois","847","2013-12-31",40000,"Saint-Damien","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24008,4927
+"Gisèle Courtemanche","J7Y3Z7","Bloc Québécois de Rivière-du-Nord","1","2013-11-21",40000,"Saint-Jérôme","QC",FALSE,"Bloc Québécois",FALSE,"2013-11-21",FALSE,FALSE,FALSE,"Rivière-du-Nord",24059,40343
+"Giselle Chagnon","J4L4H7","Bloc Québécois","230","2013-05-24",10000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-24",FALSE,FALSE,FALSE,NA,24035,35626
+"Giselle Chagnon","J4L4H7","Bloc Québécois","227","2013-02-27",10000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-27",FALSE,FALSE,FALSE,NA,24035,35626
+"Giselle Chagnon","J4L4H7","Bloc Québécois","229","2013-04-29",10000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-29",FALSE,FALSE,FALSE,NA,24035,35626
+"Giselle Chagnon","J4L4H7","Bloc Québécois","228","2013-03-25",10000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-25",FALSE,FALSE,FALSE,NA,24035,35626
+"Gratien Ouellet","G8H3G4","Bloc Québécois Roberval--Lac-Saint-Jean","6","2013-11-08",37500,"Roberval","QC",FALSE,"Bloc Québécois",FALSE,"2013-11-08",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",NA,37683
+"Guillaume Bisaillon","H2X2K1","Bloc Québécois","140","2013-12-27",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-27",FALSE,FALSE,FALSE,NA,24075,41365
+"Guillaume Paquet","J2K3T8","Bloc Québécois de Brome--Missisquoi","5","2013-10-18",40000,"Cowansville",NA,FALSE,"Bloc Québécois",FALSE,"2013-10-18",FALSE,FALSE,FALSE,"Brome—Missisquoi",24010,41447
+"Guy Amyot","J5Z2M6","Bloc Québécois","5","2013-05-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","13","2013-12-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","12","2013-11-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","11","2013-10-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","10","2013-09-30",500,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","7","2013-07-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","8","2013-08-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","9","2013-09-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","4","2013-04-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","6","2013-06-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Amyot","J5Z2M6","Bloc Québécois","3","2013-03-01",5000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24053,35516
+"Guy Ayotte","J4H3S4","Bloc Québécois","42","2013-12-19",120000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24035,35528
+"Guy Cormier","H3L2V3","Bloc Québécois","256","2013-05-17",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-17",FALSE,FALSE,FALSE,NA,24002,35642
+"Guy Deslandes","J2G3B6","Association du Bloc Québécois de Shefford","1","2013-09-27",40000,"Granby","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-27",FALSE,FALSE,FALSE,"Shefford",24069,40060
+"Guy Drouin","J8V2B5","Bloc Québécois","363","2013-05-21",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-21",FALSE,FALSE,FALSE,NA,24020,36999
+"Guy GB Bardier","J3P7W6","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","4","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,40621
+"Guy GL Lemire","J3T1T7","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","38","2013-12-10",39500,"Nicolet","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41349
+"Guy GM Marier","J2L2S2","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","41","2013-12-10",40000,"Bromont","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24010,38746
+"Guy Joyal","J2S2Y2","Bloc Québécois","545","2013-03-06",48500,"Saint-Hyacinthe","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-06",FALSE,FALSE,FALSE,NA,24063,41388
+"Guy Ouellet","G2A2S8","Bloc Québécois","741","2013-10-07",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-07",FALSE,FALSE,FALSE,NA,24038,39202
+"Guy Saint-Germain","G6V3V6","Bloc Québécois","869","2013-12-12",40000,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-12",FALSE,FALSE,FALSE,NA,24034,41312
+"Guy Smith","J7C4V5","Bloc Québécois","884","2013-12-21",40000,"Blainville","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-21",FALSE,FALSE,FALSE,NA,24071,41022
+"Guy Turcotte","G3C5E7","Bloc Québécois","920","2013-12-02",30000,"Lac-Delage","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-02",FALSE,FALSE,FALSE,NA,24013,41430
+"Hélène Gaudreau","J4M2M5","Bloc Québécois","429","2013-11-29",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-29",FALSE,FALSE,FALSE,NA,24035,38787
+"Hélène Gilbert","H2Y4A2","Bloc Québécois","459","2013-11-25",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-25",FALSE,FALSE,FALSE,NA,24031,39862
+"Hélène Lavoie","G8H2H8","Bloc Québécois Roberval--Lac-Saint-Jean","3","2013-05-16",40000,"Roberval","QC",FALSE,"Bloc Québécois",FALSE,"2013-05-16",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",24060,38324
+"Hélène Mcclure","J0C1K0","Bloc Québécois","699","2013-10-03",40000,"Saint-Edmond-de-Grantham","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-03",FALSE,FALSE,FALSE,NA,24018,39184
+"Henri Soucy","H1T4B2","Bloc Québécois","885","2013-03-05",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-05",FALSE,FALSE,FALSE,NA,24021,37190
+"Isabelle Laporte","H2V4R3","Bloc Québécois","598","2013-09-25",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-25",FALSE,FALSE,FALSE,NA,24047,35858
+"J.-Jacques Delisle","H4E1N7","Bloc Québécois","327","2013-12-05",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-05",FALSE,FALSE,FALSE,NA,24029,35664
+"Jacqueline Hétu","J7Y2E7","Bloc Québécois de Rivière-du-Nord","3","2013-04-12",40000,"Saint-Jérôme","QC",FALSE,"Bloc Québécois",FALSE,"2013-04-12",FALSE,FALSE,FALSE,"Rivière-du-Nord",24059,6009
+"Jacqueline-Claire Binette","J7V6G4","Bloc Québécois","138","2013-09-05",30000,"Pincourt","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-05",FALSE,FALSE,FALSE,NA,24073,5986
+"Jacqueline-Claire Binette","J7V6G4","Bloc Québécois","139","2013-11-07",10000,"Pincourt","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-07",FALSE,FALSE,FALSE,NA,24073,5986
+"Jacques Aubry","H1Y2P5","Bloc Québécois","23","2013-11-17",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-17",FALSE,FALSE,FALSE,NA,24061,3053
+"Jacques Cayouette","J9H4A3","Bloc Québécois","226","2013-12-31",30000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24023,40334
+"Jacques JC Charland","G6P9G5","Bloc Québécois Richmond--Arthabaska","5","2013-10-08",20400,"Victoriaville","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-08",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,41355
+"Jacques La Rivière","H3G2P5","Bloc Québécois","555","2013-12-06",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-06",FALSE,FALSE,FALSE,NA,24075,41390
+"Jacques Lacroix","G0S2H0","Bloc Québécois","571","2013-04-08",30000,"Sainte-Croix","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-08",FALSE,FALSE,FALSE,NA,24036,2209
+"Jacques Larose","H2P1X4","Bloc Québécois","618","2013-03-18",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-18",FALSE,FALSE,FALSE,NA,24048,35862
+"Jacques Limoges","J1K1W8","Bloc Québécois","660","2013-10-15",10000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24070,37104
+"Jacques Limoges","J1K1W8","Bloc Québécois","659","2013-03-05",15000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-05",FALSE,FALSE,FALSE,NA,24070,37104
+"Jacques Potvin","G7H8A5","Bloc Québécois Chicoutimi--Le Fjord","6","2013-12-31",30000,"Saguenay","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Chicoutimi—Le Fjord",24016,2794
+"Jacques Tremblay","J4P2N2","Bloc Québécois","913","2013-11-18",40000,"Saint-Lambert","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24065,41429
+"Jacynthe Lavoie","J4N1K9","Bloc Québécois Roberval--Lac-Saint-Jean","4","2013-03-06",40000,"Longueuil","QC",FALSE,"Bloc Québécois",FALSE,"2013-03-06",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",24035,39741
+"Jaime Lara","H2R2V7","Bloc Québécois","614","2013-10-02",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24048,41395
+"Jaime Lara","H2R2V7","Bloc Québécois","613","2013-03-14",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-14",FALSE,FALSE,FALSE,NA,24048,41395
+"James E. Paulin","G0K1L0","Bloc Québécois","794","2013-08-20",6500,"Saint-Donat","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-20",FALSE,FALSE,FALSE,NA,24041,40978
+"James E. Paulin","G0K1L0","Bloc Québécois","795","2013-10-01",6500,"Saint-Donat","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24041,40978
+"James E. Paulin","G0K1L0","Bloc Québécois","793","2013-03-25",13000,"Saint-Donat","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-25",FALSE,FALSE,FALSE,NA,24041,40978
+"Janine Dansereau","H1J2J7","Bloc Québécois","299","2013-03-27",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-27",FALSE,FALSE,FALSE,NA,24022,40822
+"Janine Dansereau","H1J2J7","Bloc Québécois","300","2013-10-01",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24022,40822
+"Jean Archambault","H2C2L6","Bloc Québécois","16","2013-04-03",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-03",FALSE,FALSE,FALSE,NA,24002,39764
+"Jean Archambault","H2C2L6","Bloc Québécois","17","2013-10-29",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24002,39764
+"Jean Crevier","J0R1K0","Bloc Québécois","271","2013-12-31",40000,"Piedmont","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24030,41372
+"Jean Dorion","H3X3R6","Bloc Québécois","358","2013-04-02",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-02",FALSE,FALSE,FALSE,NA,24045,36991
+"Jean Gérin-Roze","J7P2G2","Bloc Québécois","450","2013-06-03",10000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-03",FALSE,FALSE,FALSE,NA,24057,5938
+"Jean Gérin-Roze","J7P2G2","Bloc Québécois","448","2013-04-02",10000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-02",FALSE,FALSE,FALSE,NA,24057,5938
+"Jean Gérin-Roze","J7P2G2","Bloc Québécois","451","2013-07-02",10000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-02",FALSE,FALSE,FALSE,NA,24057,5938
+"Jean Gérin-Roze","J7P2G2","Bloc Québécois","449","2013-05-01",10000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24057,5938
+"Jean Gérin-Roze","J7P2G2","Bloc Québécois","452","2013-09-30",40000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24057,5938
+"Jean JB Bernier","J8Z2A5","Association de circonscription du Bloc Québécois de Gatineau","1","2013-12-16",40000,"Gatineau","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Gatineau",24023,6177
+"Jean JC Cournoyer","J3P7Z8","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","12","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,38734
+"Jean Laframboise","J6S6A2","Bloc Québécois","573","2013-03-04",70000,"Salaberry-de-Valleyfield","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24006,36349
+"Jean Parenteau","H7E3J9","Bloc Québécois","792","2013-10-30",40000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-30",FALSE,FALSE,FALSE,NA,24003,41418
+"Jean Robert","J0T1Y0","Bloc Québécois","834","2013-12-06",20000,"Wentworth-Nord","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-06",FALSE,FALSE,FALSE,NA,24004,37262
+"Jean Robert","J0T1Y0","Bloc Québécois","833","2013-05-02",30000,"Wentworth-Nord","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-02",FALSE,FALSE,FALSE,NA,24004,37262
+"Jean Rouette","H1M3N9","Bloc Québécois","865","2013-12-25",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-25",FALSE,FALSE,FALSE,NA,24022,41310
+"Jean-Claude Boisvert","H2E1Z9","Bloc Québécois","157","2013-04-02",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-02",FALSE,FALSE,FALSE,NA,24061,3076
+"Jean-Claude Boisvert","H2E1Z9","Bloc Québécois","158","2013-05-01",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24061,3076
+"Jean-Claude Boisvert","H2E1Z9","Bloc Québécois","155","2013-02-05",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-05",FALSE,FALSE,FALSE,NA,24061,3076
+"Jean-Claude Boisvert","H2E1Z9","Bloc Québécois","156","2013-03-01",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24061,3076
+"Jean-Claude Gagnier","H1T2W5","Bloc Québécois","408","2013-10-08",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-08",FALSE,FALSE,FALSE,NA,24021,35741
+"Jean-Claude Giguère","J0T1T0","Bloc Québécois","455","2013-03-07",11500,"Rivière-Rouge","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-07",FALSE,FALSE,FALSE,NA,24004,5062
+"Jean-Claude Giguère","J0T1T0","Bloc Québécois","453","2013-01-17",10000,"Rivière-Rouge","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-17",FALSE,FALSE,FALSE,NA,24004,5062
+"Jean-Claude Giguère","J0T1T0","Bloc Québécois","454","2013-02-05",10000,"Rivière-Rouge","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-05",FALSE,FALSE,FALSE,NA,24004,5062
+"Jean-Claude Giguère","J0T1T0","Bloc Québécois","456","2013-04-02",10000,"Rivière-Rouge","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-02",FALSE,FALSE,FALSE,NA,24004,5062
+"Jean-François Barbe","H2X1C6","Bloc Québécois","44","2013-10-25",50000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-25",FALSE,FALSE,FALSE,NA,NA,36890
+"Jean-François Barbe","H2X1C6","Bloc Québécois","43","2013-03-06",50000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-06",FALSE,FALSE,FALSE,NA,NA,36890
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","804","2013-02-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","813","2013-11-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","806","2013-04-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","808","2013-06-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","807","2013-05-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","812","2013-10-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","803","2013-01-01",3336,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","811","2013-09-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","809","2013-07-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","810","2013-08-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","814","2013-12-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-François Plouffe","H1B3A5","Bloc Québécois","805","2013-03-01",3333,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24028,37842
+"Jean-Guy J-G P Paré","G0X2Z0","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","47","2013-02-18",37500,"Saint-Pierre-les-Becquets","QC",FALSE,"Bloc Québécois",FALSE,"2013-02-18",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,2245
+"Jean-Guy Pelletier","J0G1M0","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","48","2013-12-10",40000,"Saint-François-du-Lac","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24018,4875
+"Jean-Guy Vincent","H1R2H1","Bloc Québécois","933","2013-10-01",10500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24067,36122
+"Jean-Guy Vincent","H1R2H1","Bloc Québécois","932","2013-03-04",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24067,36122
+"Jean-Jacques Lauzier","H2E1X6","Bloc Québécois","620","2013-10-24",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-24",FALSE,FALSE,FALSE,NA,24048,41397
+"Jean-Jacques St-Aubin","H3A0A4","Bloc Québécois","887","2013-02-27",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-27",FALSE,FALSE,FALSE,NA,24075,40457
+"Jean-Jacques St-Aubin","H3A0A4","Bloc Québécois","888","2013-10-09",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-09",FALSE,FALSE,FALSE,NA,24075,40457
+"Jean-Louis Bibeau","H3E1L7","Bloc Québécois","135","2013-10-07",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-07",FALSE,FALSE,FALSE,NA,24024,36910
+"Jean-Marc Morin","G2A3K6","Bloc Québécois","719","2013-10-31",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-31",FALSE,FALSE,FALSE,NA,24038,39277
+"Jean-Marc Savoie","J2L2G7","Association du Bloc Québécois de Shefford","4","2013-12-18",40000,"Bromont","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-18",FALSE,FALSE,FALSE,"Shefford",24010,39446
+"Jean-Marie Lemyre","J7P2X8","Bloc Québécois","639","2013-10-01",40000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24057,5939
+"Jean-Noël Schmidt","J7V8S5","Bloc Québécois","878","2013-10-29",20000,"L'Île-Perrot","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24073,39927
+"Jean-Noël Schmidt","J7V8S5","Bloc Québécois","877","2013-03-07",10000,"L'Île-Perrot","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-07",FALSE,FALSE,FALSE,NA,24073,39927
+"Jean-Paul Bordeleau","J9P4R7","Bloc Québécois","160","2013-09-16",30000,"Val-d'Or","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-16",FALSE,FALSE,FALSE,NA,24046,36169
+"Jean-Philippe Roy","H4A2K9","Bloc Québécois","868","2013-12-31",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24075,41423
+"Jean-Pierre Amiaud","J6T6B1","Bloc Québécois","2","2013-12-31",40000,"Salaberry-de-Valleyfield","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24006,5827
+"Jean-Pierre Plourde","G7S2A5","Bloc Québécois","817","2013-06-14",10000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-14",FALSE,FALSE,FALSE,NA,24026,41305
+"Jean-Pierre Plourde","G7S2A5","Bloc Québécois","816","2013-03-11",40000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-11",FALSE,FALSE,FALSE,NA,24026,41305
+"Jean-Sébastien Moreau","H2S2N4","Bloc Québécois","713","2013-03-02",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-02",FALSE,FALSE,FALSE,NA,24061,41411
+"Jean-Yves JYG Giguère","J3R4W5","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","24","2013-12-10",39500,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41346
+"Jeanne Bélisle","J2M1L7","Bloc Québécois","80","2013-10-10",30000,"Shefford","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-10",FALSE,FALSE,FALSE,NA,24069,39011
+"Jeannine Fortin","G8M5H1","Bloc Québécois Roberval--Lac-Saint-Jean","1","2013-10-11",40000,"Mistassini","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-11",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",NA,39737
+"Jeannine Grimard","J1N0B6","Bloc Québécois Compton--Stanstead","4","2013-12-31",40000,"Sherbrooke","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Compton—Stanstead",24017,5191
+"Jérôme Filiatrault","J7Y2E7","Bloc Québécois de Rivière-du-Nord","2","2012-12-03",40000,"Saint-Jérôme","QC",FALSE,"Bloc Québécois",TRUE,"2013-12-03",FALSE,FALSE,FALSE,"Rivière-du-Nord",24059,36500
+"Jérôme Lachance","G7G4W3","Bloc Québécois Chicoutimi--Le Fjord","5","2013-12-31",40000,"Saguenay","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Chicoutimi—Le Fjord",24016,40112
+"Jérôme Landry","J0K1W0","Bloc Québécois","595","2013-04-24",50000,"Saint-Alphonse-Rodriguez","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-24",FALSE,FALSE,FALSE,NA,24008,4926
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","131","2013-09-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","129","2013-07-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","126","2013-04-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","127","2013-05-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","134","2013-12-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","132","2013-10-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","128","2013-06-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","130","2013-08-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","133","2013-11-15",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn Bérubé","G0J1M0","Bloc Québécois","125","2013-03-21",4000,"Lac-au-Saumon","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24041,2102
+"Jocelyn JJ Joyal","J0G1M0","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","31","2013-12-16",39500,"Saint-François-du-Lac","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24018,39534
+"Jocelyn Nadeau","J0C1K0","Bloc Québécois","734","2013-10-03",40000,"Saint-Edmond-de-Grantham","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-03",FALSE,FALSE,FALSE,NA,24018,39196
+"Jocelyne Beaulne","H2J3B9","Bloc Québécois","54","2013-02-18",2500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-18",FALSE,FALSE,FALSE,NA,24031,41243
+"Jocelyne Beaulne","H2J3B9","Bloc Québécois","55","2013-12-20",37500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-20",FALSE,FALSE,FALSE,NA,24031,41243
+"Jocelyne JG Gariépy","J3R5E7","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","22","2013-01-17",50000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-01-17",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,38742
+"Jocelyne Tardif","G8H2L9","Bloc Québécois Roberval--Lac-Saint-Jean","8","2013-12-02",37500,"Roberval","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-02",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",24060,41450
+"Johanne Bergeron","G5A3A4","Bloc Québécois","111","2013-04-02",30000,"La Malbaie","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-02",FALSE,FALSE,FALSE,NA,24014,37728
+"Josée Hamel","J6K4L6","Bloc Québécois","501","2013-12-10",50000,"Châteauguay","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,NA,24015,41386
+"Joseph Charbonneau","H4A3J6","Bloc Québécois","244","2013-03-21",20100,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24075,35629
+"Jules Bélanger","G4X1S5","Bloc Québécois","64","2013-04-11",20000,"Gaspé","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-11",FALSE,FALSE,FALSE,NA,24019,35550
+"Jules Bélanger","G4X1S5","Bloc Québécois","62","2013-02-15",3400,"Gaspé","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24019,35550
+"Jules Bélanger","G4X1S5","Bloc Québécois","65","2013-10-01",10000,"Gaspé","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24019,35550
+"Jules Bélanger","G4X1S5","Bloc Québécois","63","2013-03-15",3400,"Gaspé","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24019,35550
+"Jules Bélanger","G4X1S5","Bloc Québécois","61","2013-01-15",3400,"Gaspé","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24019,35550
+"Jules Bellefeuille","G3L1W2","Bloc Québécois","81","2013-04-04",20500,"Saint-Raymond","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-04",FALSE,FALSE,FALSE,NA,24051,40758
+"Jules Bosman","J3H3E7","Bloc Québécois","161","2013-12-04",30000,"Mont-Saint-Hilaire","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-04",FALSE,FALSE,FALSE,NA,24012,41366
+"Jules Bourque","J0K1L0","Bloc Québécois","171","2013-11-07",40000,"Mandeville","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-07",FALSE,FALSE,FALSE,NA,24008,38702
+"Jules Lefebvre","J6N2E4","Bloc Québécois","635","2013-09-30",1000,"Beauharnois","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24006,36354
+"Jules Lefebvre","J6N2E4","Bloc Québécois","634","2013-03-21",19500,"Beauharnois","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24006,36354
+"Julie Jean","H1G1T9","Bloc Québécois","543","2013-12-10",75000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,NA,24009,38462
+"Julien Gravel","G7P1P4","Bloc Québécois","490","2013-03-25",40000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-25",FALSE,FALSE,FALSE,NA,24026,39865
+"Keven KH Hébert","J3P5N3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","26","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5447
+"Laval Cavanagh","G0C1J0","Bloc Québécois","225","2013-10-07",40000,"Carleton-sur-Mer","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-07",FALSE,FALSE,FALSE,NA,24019,2078
+"Léopold Ferron","J6A3J8","Bloc Québécois","393","2013-02-24",40000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-24",FALSE,FALSE,FALSE,NA,24053,38443
+"Lionel LB Bellavance","G6P6B1","Bloc Québécois Richmond--Arthabaska","2","2013-09-15",20400,"Victoriaville","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,2703
+"Lionel Ouellet","G1T1Y6","Bloc Québécois","742","2013-05-29",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-29",FALSE,FALSE,FALSE,NA,24037,39203
+"Lise Amyot","J2T1X5","Bloc Québécois","14","2013-11-27",20500,"Saint-Hyacinthe","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-27",FALSE,FALSE,FALSE,NA,24063,40196
+"Lise Langlais","G8H2Z7","Bloc Québécois Roberval--Lac-Saint-Jean","2","2012-11-06",37500,"Roberval","QC",FALSE,"Bloc Québécois",TRUE,"2013-11-06",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",24060,41449
+"Lisette Leblanc","G6V3V6","Bloc Québécois","622","2013-12-12",40000,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-12",FALSE,FALSE,FALSE,NA,24034,41283
+"Louis Bérard","H2M0A3","Bloc Québécois","100","2013-01-17",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-17",FALSE,FALSE,FALSE,NA,24002,40762
+"Louis Camirand","J9X1W2","Bloc Québécois","207","2013-03-21",40000,"Rouyn-Noranda","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24001,35617
+"Louis Gougoux","H8P2W7","Bloc Québécois","483","2013-11-14",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-14",FALSE,FALSE,FALSE,NA,24029,35776
+"Louis Gougoux","H8P2W7","Bloc Québécois","482","2013-06-17",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-17",FALSE,FALSE,FALSE,NA,24029,35776
+"Louis LJ Jalleo","J3P1A3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","30","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5426
+"Louis LP Plamondon","J3R1Y4","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","52","2013-12-10",110000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5455
+"Louis Martin","J6E5C7","Bloc Québécois","688","2013-12-15",40000,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24025,41293
+"Louis Sauvé","H1L2P7","Bloc Québécois","873","2013-11-12",25000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-12",FALSE,FALSE,FALSE,NA,24028,2976
+"Louis Thibaudeau","H4L3W1","Bloc Québécois","907","2013-04-11",25000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-11",FALSE,FALSE,FALSE,NA,24066,36089
+"Louis Turmel","H2J3Z3","Bloc Québécois","922","2013-10-17",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-17",FALSE,FALSE,FALSE,NA,24031,41431
+"Louis Turmel","H2J3Z3","Bloc Québécois","921","2013-05-02",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-02",FALSE,FALSE,FALSE,NA,24031,41431
+"Louis-Marie Prud'homme","J8P1K9","Association de circonscription du Bloc Québécois de Gatineau","5","2013-01-13",20000,"Gatineau","QC",FALSE,"Bloc Québécois",FALSE,"2013-01-13",FALSE,FALSE,FALSE,"Gatineau",24020,38546
+"Louis-Marie Prud'homme","J8P1K9","Association de circonscription du Bloc Québécois de Gatineau","6","2013-04-20",40000,"Gatineau","QC",FALSE,"Bloc Québécois",FALSE,"2013-04-20",FALSE,FALSE,FALSE,"Gatineau",24020,38546
+"Louis-Philippe Sauvé","H1L2P7","Bloc Québécois","876","2013-11-12",12500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-12",FALSE,FALSE,FALSE,NA,24028,2976
+"Louis-Philippe Sauvé","H1L2P7","Bloc Québécois","875","2013-06-13",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-13",FALSE,FALSE,FALSE,NA,24028,2976
+"Louis-Philippe Sauvé","H1L2P7","Bloc Québécois","874","2013-03-06",500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-06",FALSE,FALSE,FALSE,NA,24028,2976
+"Louise Liessens","J3P2L9","Bloc Québécois","650","2013-04-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","655","2013-09-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","649","2013-03-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","648","2013-02-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","656","2013-10-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","654","2013-08-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","653","2013-07-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","651","2013-05-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","658","2013-12-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","652","2013-06-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","657","2013-11-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Liessens","J3P2L9","Bloc Québécois","647","2013-01-01",3000,"Sorel-Tracy","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24054,5432
+"Louise Maheu","H7K2P5","Bloc Québécois Alfred-Pellan","4","2013-05-29",40000,"Laval","QC",FALSE,"Bloc Québécois",FALSE,"2013-05-29",FALSE,FALSE,FALSE,"Alfred-Pellan",24003,4402
+"Louise Poulin-Lemieux","G6V5R1","Bloc Québécois","820","2013-10-10",40000,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-10",FALSE,FALSE,FALSE,NA,24034,41421
+"Louise Simard-Lafond","J3P2N5","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","54","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41445
+"Louiselle Courtois","J1X5R1","Bloc Québécois","267","2013-12-22",40000,"Magog","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-22",FALSE,FALSE,FALSE,NA,24010,40815
+"Luc Faucher","J1K2X3","Bloc Québécois Sherbrooke","2","2013-12-04",27000,"Sherbrooke","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-04",FALSE,FALSE,FALSE,"Sherbrooke",24070,41359
+"Luc Lambert","J5V2L6","Bloc Québécois","585","2013-04-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","590","2013-09-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","584","2013-03-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","591","2013-10-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","586","2013-05-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","592","2013-11-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","588","2013-07-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","587","2013-06-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","583","2013-02-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","589","2013-08-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Lambert","J5V2L6","Bloc Québécois","582","2013-01-01",10000,"Louiseville","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,NA,41279
+"Luc Levasseur","J3R5E6","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","40","2013-12-16",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41442
+"Luc Rochefort","J8Y2J3","Bloc Québécois","849","2013-11-01",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24023,38513
+"Luc Tremblay","H1T4B2","Bloc Québécois","914","2013-10-01",50000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24021,37207
+"Lucette Tétreault","J6T6B1","Bloc Québécois","901","2013-12-31",40000,"Salaberry-de-Valleyfield","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24006,40104
+"Lucie LG Gagné","J1T4B8","Bloc Québécois Richmond--Arthabaska","10","2013-10-15",50400,"Asbestos","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,41456
+"Lucie Monette","H1V1A1","Bloc Québécois","708","2013-03-04",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24021,38497
+"Lucie Monette","H1V1A1","Bloc Québécois","709","2013-09-30",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24021,38497
+"Lucie Simard","G7B3P6","Bloc Québécois Chicoutimi--Le Fjord","8","2013-12-31",25000,"Saguenay","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Chicoutimi—Le Fjord",24016,41437
+"Lucien Beaupré","G0Z1A0","Bloc Québécois","57","2013-03-01",40000,"Aston-Jonction","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24054,2252
+"Lysandre Gélinas","G0X3B0","Bloc Québécois","435","2013-03-04",20000,"Saint-Sévère","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24008,37411
+"Lysandre Gélinas","G0X3B0","Bloc Québécois","436","2013-10-02",20000,"Saint-Sévère","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24008,37411
+"Lyse Mongeau-Allard","H7V1P1","Bloc Québécois","710","2013-03-20",20000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-20",FALSE,FALSE,FALSE,NA,24032,41409
+"Lyse Mongeau-Allard","H7V1P1","Bloc Québécois","711","2013-11-08",10000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-08",FALSE,FALSE,FALSE,NA,24032,41409
+"Madeleine Laflamme","G1R1V9","Bloc Québécois","572","2013-10-25",30000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-25",FALSE,FALSE,FALSE,NA,24052,40918
+"Madeleine Paquet-Laporte","J8Y5X6","Bloc Québécois","756","2013-04-23",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-23",FALSE,FALSE,FALSE,NA,24023,6167
+"Madeleine Théberge-Lépine","J8Y5Y8","Bloc Québécois","902","2013-03-27",11000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-27",FALSE,FALSE,FALSE,NA,24023,39935
+"Madeleine Théberge-Lépine","J8Y5Y8","Bloc Québécois","903","2013-11-27",10000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-27",FALSE,FALSE,FALSE,NA,24023,39935
+"Manon Davidson","H1K3C8","Bloc Québécois","302","2013-03-04",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24022,35661
+"Marc Aufranc","J9J0K3","Bloc Québécois","37","2013-12-31",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24023,40745
+"Marc Bégin","G3A1A5","Bloc Québécois","59","2013-09-30",40000,"Saint-Augustin-de-Desmaures","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24037,37725
+"Marc Gilbert","G0T1Y0","Bloc Québécois","460","2013-03-18",40000,"Sacré-Coeur","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-18",FALSE,FALSE,FALSE,NA,24014,38454
+"Marc Gilbert","G0T1Y0","Bloc Québécois","461","2013-10-31",40000,"Sacré-Coeur","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-31",FALSE,FALSE,FALSE,NA,24014,38454
+"Marc MJ Jacques","J3P4G6","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","28","2013-12-10",39500,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5439
+"Marc Thivierge","J8P2T3","Bloc Québécois","910","2013-04-08",30000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-08",FALSE,FALSE,FALSE,NA,24020,6056
+"Marc Tremblay","J3B1X1","Bloc Québécois","915","2013-03-11",40000,"Saint-Jean-sur-Richelieu","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-11",FALSE,FALSE,FALSE,NA,24064,40465
+"Marc Tremblay","J3B1X1","Bloc Québécois","916","2013-10-25",10000,"Saint-Jean-sur-Richelieu","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-25",FALSE,FALSE,FALSE,NA,24064,40465
+"Marc-André Bédard","G7H0H3","Bloc Québécois Chicoutimi--Le Fjord","1","2013-12-31",40000,"Saguenay","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Chicoutimi—Le Fjord",24016,41436
+"Marc-André Dupont","H1H5K6","Bloc Québécois","375","2013-11-05",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-05",FALSE,FALSE,FALSE,NA,24009,39091
+"Marc-André Dupont","H1H5K6","Bloc Québécois","374","2013-03-23",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-23",FALSE,FALSE,FALSE,NA,24009,39091
+"Marc-Maximilien Authier","H4N1V1","Bloc Québécois","40","2013-05-01",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24066,35527
+"Marc-Maximilien Authier","H4N1V1","Bloc Québécois","41","2013-06-20",34000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-20",FALSE,FALSE,FALSE,NA,24066,35527
+"Marc-Urbain Proulx","G7H2L6","Bloc Québécois Chicoutimi--Le Fjord","7","2013-12-31",40000,"Saguenay","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Chicoutimi—Le Fjord",24016,38721
+"Marcel Bellehumeur","J6A6K4","Bloc Québécois","83","2013-09-30",40000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24053,5781
+"Marcel Bruneau","H7G1J4","Bloc Québécois","203","2013-12-17",30000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-17",FALSE,FALSE,FALSE,NA,24003,36943
+"Marcel Faucher","J3N1Y1","Bloc Québécois","391","2013-03-04",40000,"Saint-Basile-le-Grand","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24012,39099
+"Marcel Gagné","V2A5R6","Bloc Québécois","406","2013-04-29",20000,"Penticton, B.C.","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-29",FALSE,FALSE,FALSE,NA,59020,30636
+"Marcel Gagné","V2A5R6","Bloc Québécois","407","2013-10-21",20000,"Penticton, B.C.","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-21",FALSE,FALSE,FALSE,NA,59020,30636
+"Marcel Henry","H1T2W3","Bloc Québécois","526","2013-09-30",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24021,3027
+"Marcel Henry","H1T2W3","Bloc Québécois","525","2013-03-11",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-11",FALSE,FALSE,FALSE,NA,24021,3027
+"Marcel Laroche","G5L4W6","Bloc Québécois","615","2013-11-07",40000,"Rimouski","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-07",FALSE,FALSE,FALSE,NA,24056,41396
+"Marcel MF Fafard","J3P5N3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","17","2013-06-13",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-06-13",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,38131
+"Marcel MJ Joyal","J3T1R8","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","32","2013-12-10",40000,"Nicolet","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,40124
+"Marcelle Viger","J4H3B9","Bloc Québécois","931","2013-02-27",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-27",FALSE,FALSE,FALSE,NA,24035,5566
+"Marco ML Lavallée","J3P1M5","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","34","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,40125
+"Marie Aquin","H7E1B2","Bloc Québécois","15","2013-10-09",40000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-09",FALSE,FALSE,FALSE,NA,24003,4352
+"Marie Harvey","H3E1T4","Bloc Québécois","510","2013-11-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie Harvey","H3E1T4","Bloc Québécois","502","2013-03-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie Harvey","H3E1T4","Bloc Québécois","503","2013-04-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie Harvey","H3E1T4","Bloc Québécois","511","2013-12-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie Harvey","H3E1T4","Bloc Québécois","505","2013-06-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie Harvey","H3E1T4","Bloc Québécois","504","2013-05-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie Harvey","H3E1T4","Bloc Québécois","506","2013-07-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie Harvey","H3E1T4","Bloc Québécois","509","2013-10-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie Harvey","H3E1T4","Bloc Québécois","507","2013-08-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie Harvey","H3E1T4","Bloc Québécois","508","2013-09-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24024,39869
+"Marie-Andrée Champagne","J0K2N0","Bloc Québécois","231","2013-11-13",40000,"Saint-Gabriel","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-13",FALSE,FALSE,FALSE,NA,24008,41370
+"Marie-Andrée Richard","J6S6A2","Bloc Québécois","829","2013-04-23",40000,"Salaberry-de-Valleyfield","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-23",FALSE,FALSE,FALSE,NA,24006,5822
+"Marie-Françoise Arthus","H2P2C9","Bloc Québécois","19","2013-04-10",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-10",FALSE,FALSE,FALSE,NA,24048,36887
+"Marie-Françoise Arthus","H2P2C9","Bloc Québécois","20","2013-10-31",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-31",FALSE,FALSE,FALSE,NA,24048,36887
+"Marie-Paul Desgroseilliers","J6E3B8","Bloc Québécois de Joliette","1","2013-04-28",40600,"Joliette","QC",FALSE,"Bloc Québécois",FALSE,"2013-04-28",FALSE,FALSE,FALSE,"Joliette",24025,5788
+"Marie-Paule Desgroseilliers","J6E3B8","Bloc Québécois","350","2013-06-10",40000,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-10",FALSE,FALSE,FALSE,NA,24025,5788
+"Marielle Deguire","H2M2K7","Bloc Québécois","325","2013-11-08",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-08",FALSE,FALSE,FALSE,NA,24002,41258
+"Mariem Malak","KIK4T8","Association de circonscription du Bloc Québécois de Gatineau","2","2013-12-16",75000,"Ottawa","ON",FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Gatineau",NA,41435
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","288","2013-02-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","292","2013-06-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","290","2013-04-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","293","2013-07-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","295","2013-09-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","294","2013-08-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","287","2013-01-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","298","2013-12-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","289","2013-03-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","291","2013-05-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","297","2013-11-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Mario Daneau-Landry","J6E0G8","Bloc Québécois","296","2013-10-15",2500,"Joliette","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,NA,41256
+"Marthe Brassard","G7P1P4","Bloc Québécois","186","2013-06-19",7500,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-19",FALSE,FALSE,FALSE,NA,24026,41246
+"Marthe Brassard","G7P1P4","Bloc Québécois","185","2013-03-25",15000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-25",FALSE,FALSE,FALSE,NA,24026,41246
+"Marthe Brassard","G7P1P4","Bloc Québécois","187","2013-10-29",10000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24026,41246
+"Marthe Laprise","J7R2W9","Bloc Québécois","601","2013-01-15",1000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","611","2013-11-15",2000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","610","2013-10-15",2000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","609","2013-09-15",2000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","605","2013-05-15",2000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","612","2013-12-15",1000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","607","2013-07-15",2000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","606","2013-06-15",2000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","604","2013-04-15",2000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","608","2013-08-15",2000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","602","2013-02-15",1000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Marthe Laprise","J7R2W9","Bloc Québécois","603","2013-03-15",2000,"Saint-Eustache","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24057,41394
+"Martin Florent","J0V1V0","Bloc Québécois","397","2013-11-22",40000,"Ripon","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-22",FALSE,FALSE,FALSE,NA,24004,41264
+"Martin Florent","J0V1V0","Bloc Québécois","396","2013-03-12",40000,"Ripon","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-12",FALSE,FALSE,FALSE,NA,24004,41264
+"Martin Foisy","J5W1K4","Bloc Québécois","398","2013-12-30",30000,"L'Assomption","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-30",FALSE,FALSE,FALSE,NA,24053,40856
+"Martin Mujica","H2V1W1","Bloc Québécois","731","2013-10-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","730","2013-09-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","726","2013-05-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","729","2013-08-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","733","2013-12-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","725","2013-04-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","723","2013-03-14",12000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-14",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","721","2013-01-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","724","2013-03-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","722","2013-02-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","728","2013-07-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","732","2013-11-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Mujica","H2V1W1","Bloc Québécois","727","2013-06-15",1000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24047,35961
+"Martin Ouellet","H1W2X4","Bloc Québécois","747","2013-05-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","754","2013-12-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","752","2013-10-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","750","2013-08-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","746","2013-04-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","749","2013-07-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","748","2013-06-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","751","2013-09-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","743","2013-01-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","744","2013-02-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","745","2013-03-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Ouellet","H1W2X4","Bloc Québécois","753","2013-11-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24021,41414
+"Martin Robitaille","J0K2E0","Bloc Québécois","848","2013-12-31",40000,"Saint-Damien","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24008,4928
+"Martin Sirois","G5Y2K6","Bloc Québécois","882","2013-01-30",20000,"Saint-Georges","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-30",FALSE,FALSE,FALSE,NA,24005,41425
+"Martin Sirois","G5Y2K6","Bloc Québécois","883","2013-05-06",20000,"Saint-Georges","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-06",FALSE,FALSE,FALSE,NA,24005,41425
+"Martine Maisani-Léonard","H2V3L5","Bloc Québécois","671","2013-12-06",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-06",FALSE,FALSE,FALSE,NA,24047,37112
+"Martine MM Menard","J3R4W1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","43","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5460
+"Martine Ouellet","J4H3X5","Bloc Québécois","755","2013-04-04",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-04",FALSE,FALSE,FALSE,NA,24035,5570
+"Maryse Pilon","J5M0C6","Association de circonscription du Bloc Québécois Montcalm","5","2013-12-31",40000,"Saint-Lin-Laurentides","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Montcalm",NA,5731
+"Mathieu Traversy","J6W6C6","Bloc Québécois","912","2013-12-31",20500,"Terrebonne","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24043,41428
+"Matthieu ML Levasseur","G6R0G9","Bloc Québécois Richmond--Arthabaska","15","2013-09-13",20400,"Saint-Christophe-d'Ar","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-13",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,41459
+"Mattio Diorio","H4K1V8","Bloc Québécois","356","2013-10-02",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24066,35690
+"Maurice Champagne","G1R3A6","Bloc Québécois","241","2013-10-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","238","2013-08-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","233","2013-03-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","235","2013-05-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","236","2013-06-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","237","2013-07-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","242","2013-11-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","240","2013-10-02",10000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","243","2013-12-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","232","2013-02-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","234","2013-04-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Champagne","G1R3A6","Bloc Québécois","239","2013-09-15",1000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24052,41249
+"Maurice Crépeau","H1H5V8","Bloc Québécois","269","2013-10-07",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-07",FALSE,FALSE,FALSE,NA,24009,41371
+"Maurice Michaud","G2M1K5","Bloc Québécois","704","2013-05-16",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-16",FALSE,FALSE,FALSE,NA,NA,41408
+"Maurice Renaud","G0X1W0","Bloc Québécois","826","2013-02-28",40000,"Notre-Dame-de-Montauban","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-28",FALSE,FALSE,FALSE,NA,24051,36849
+"Max MS Sévégny","G6P5H2","Bloc Québécois Richmond--Arthabaska","19","2013-09-27",20400,"Victoriaville","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-27",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,2702
+"Maxime Péloquin","J3P7E1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","50","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41443
+"Mérielle Paradis","G0L2C0","Bloc Québécois","785","2013-10-25",20000,"Rivière-Ouelle","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-25",FALSE,FALSE,FALSE,NA,24058,41416
+"Mérielle Paradis","G0L2C0","Bloc Québécois","784","2013-05-01",5000,"Rivière-Ouelle","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24058,41416
+"Michel Brousseau","J0K3L0","Bloc Québécois","199","2013-09-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","201","2013-11-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","197","2013-07-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","200","2013-10-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","196","2013-06-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","198","2013-08-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","195","2013-05-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","202","2013-12-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","193","2013-03-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","192","2013-02-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","194","2013-04-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Brousseau","J0K3L0","Bloc Québécois","191","2013-01-15",3500,"Saint-Thomas","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24008,4947
+"Michel Cantin","G1M1X1","Bloc Québécois","210","2013-11-21",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-21",FALSE,FALSE,FALSE,NA,24052,41369
+"Michel Choinière","J0P1B0","Bloc Québécois","249","2013-11-01",40000,"Coteau-du-Lac","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24073,4980
+"Michel Cotton","G1C6G9","Bloc Québécois","265","2013-03-15",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24014,35652
+"Michel De Courcy","J8E3H6","Bloc Québécois","303","2013-12-29",43000,"Mont-Tremblant","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-29",FALSE,FALSE,FALSE,NA,24030,40824
+"Michel Forget","G0R1Z0","Bloc Québécois","399","2013-11-23",40000,"La Pocatière","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-23",FALSE,FALSE,FALSE,NA,24058,2166
+"Michel Fortier","G0S2C0","Bloc Québécois","400","2013-03-07",40000,"Saint-Antoine-de-Tilly","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-07",FALSE,FALSE,FALSE,NA,24036,40858
+"Michel Giguère","G0S1E2","Bloc Québécois","457","2013-12-16",40000,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,NA,24036,39286
+"Michel Gouault","J0J1C0","Bloc Québécois","481","2013-12-04",50000,"Frelighsburg","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-04",FALSE,FALSE,FALSE,NA,24010,41152
+"Michel Grégoire","G1Y1N2","Bloc Québécois","491","2013-01-17",30000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-17",FALSE,FALSE,FALSE,NA,24037,41385
+"Michel Hudon","G0L3X0","Bloc Québécois","541","2013-09-25",40000,"Saint-Pacôme","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-25",FALSE,FALSE,FALSE,NA,24056,2121
+"Michel Laporte","J8Y5X6","Bloc Québécois","599","2013-04-23",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-23",FALSE,FALSE,FALSE,NA,24023,36232
+"Michel Lecarpentier","G1S4W1","Bloc Québécois","626","2013-03-18",25000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-18",FALSE,FALSE,FALSE,NA,24052,39163
+"Michel Leclerc","G4R3T2","Bloc Québécois","627","2013-10-29",13000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24039,41401
+"Michel Leclerc","G4R3T2","Bloc Québécois","629","2013-12-31",13500,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24039,41401
+"Michel Leclerc","G4R3T2","Bloc Québécois","628","2013-11-27",13500,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-27",FALSE,FALSE,FALSE,NA,24039,41401
+"Michel MB Beaudoin","J3P1J6","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","6","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,38731
+"Michel MC Couillard","J1T4A8","Bloc Québécois Richmond--Arthabaska","6","2013-10-08",20400,"Asbestos","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-08",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,41454
+"Michel MF Falardeau","J3P6C1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","18","2013-03-06",39500,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-03-06",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,40622
+"Michel ML Legault","J3T1T1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","37","2013-12-10",40000,"Nicolet","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5471
+"Michel MM Morin","G9H2G6","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","46","2013-12-10",39500,"Bécancour","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,2914
+"Michel Moisan","H2V2Z1","Bloc Québécois","707","2013-10-01",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24047,35950
+"Michel Paul Archambault","H3Z1J9","Bloc Québécois","18","2013-10-02",40000,"Westmount","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24075,38390
+"Michel Prévost","J8Y1Y5","Bloc Québécois","821","2013-04-25",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-25",FALSE,FALSE,FALSE,NA,24023,36012
+"Michel Rousseau","J6Z3T5","Bloc Québécois","866","2013-03-18",40000,"Lorraine","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-18",FALSE,FALSE,FALSE,NA,24040,38515
+"Michel Roussy","H2S2C1","Bloc Québécois","867","2013-05-14",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-14",FALSE,FALSE,FALSE,NA,24061,41311
+"Micheline Joyal","H1T2X5","Bloc Québécois","546","2013-12-31",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24021,3028
+"Monik Barbeau","H3K3H7","Bloc Québécois","45","2013-09-30",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24024,3624
+"Monique Désy","J3X1R7","Bloc Québécois","355","2013-11-20",20000,"Varennes","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-20",FALSE,FALSE,FALSE,NA,24074,41375
+"Monique Désy","J3X1R7","Bloc Québécois","354","2013-03-21",20000,"Varennes","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24074,41375
+"Monique Laporte","J3N1H2","Bloc Québécois","600","2013-03-13",30000,"Saint-Basile-le-Grand","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-13",FALSE,FALSE,FALSE,NA,24012,40002
+"Monique Plouffe-Renaud","H2V4R3","Bloc Québécois","815","2013-04-04",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-04",FALSE,FALSE,FALSE,NA,24047,3233
+"Nabil Malak","H4N0A9","Association de circonscription du Bloc Québécois de Gatineau","3","2013-12-16",75000,"Montréal","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Gatineau",NA,41320
+"Nicolas Dufresne","H7X1M3","Bloc Québécois","371","2013-04-02",30000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-02",FALSE,FALSE,FALSE,NA,24033,35707
+"Nicolas Kaliaguine","H1L3G9","Bloc Québécois","552","2013-04-20",500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-20",FALSE,FALSE,FALSE,NA,24028,41389
+"Nicolas Kaliaguine","H1L3G9","Bloc Québécois","553","2013-11-07",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-07",FALSE,FALSE,FALSE,NA,24028,41389
+"Nicolas Marceau","H2H1L7","Bloc Québécois","672","2013-12-24",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-24",FALSE,FALSE,FALSE,NA,24031,40499
+"Nicole Bénard","H2M1S9","Bloc Québécois","85","2013-10-02",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,NA,24002,41364
+"Nicole Gaboury","J8Z1C5","Bloc Québécois","405","2013-12-31",40000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24023,39110
+"Nicole Gaboury","J8Z1C5","Bloc Québécois","404","2013-10-15",50000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24023,39110
+"Nicole Pelletier","G5L8C6","Bloc Québécois Rimouski-Neigette--Témiscouata--Les Basques","1","2013-12-15",40000,"Rimouski","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,"Rimouski-Neigette—Témiscouata—Les Basques",24056,41448
+"Nicole Stafford","H2J2T2","Bloc Québécois","890","2013-10-04",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-04",FALSE,FALSE,FALSE,NA,24031,41023
+"Noël Gagnon","G1K8N5","Bloc Québécois","422","2013-12-02",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-02",FALSE,FALSE,FALSE,NA,24052,2307
+"Noël Lambert","G0K1C0","Bloc Québécois","593","2013-03-25",40000,"Les Hauteurs","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-25",FALSE,FALSE,FALSE,NA,24041,41329
+"Noël Rivard","J6A3V4","Bloc Québécois","831","2013-04-24",30000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-24",FALSE,FALSE,FALSE,NA,NA,5778
+"Norman Dansereau","H7X3H2","Bloc Québécois","301","2013-11-14",40000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-14",FALSE,FALSE,FALSE,NA,24033,38296
+"Normand Barbeau","J0H2E0","Bloc Québécois","46","2013-12-19",40000,"Upton","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24063,4896
+"Normand Gallant","G0L1J0","Bloc Québécois","424","2013-04-25",30000,"Pohénégamook","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-25",FALSE,FALSE,FALSE,NA,24056,35747
+"Normand NJ Jacques","J1X0M9","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","29","2013-12-16",39500,"Magog","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24010,41440
+"Normand Salman","H3L2Z6","Bloc Québécois","870","2013-05-20",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-20",FALSE,FALSE,FALSE,NA,24002,39926
+"Odette Poirier","G0G1H0","Bloc Québécois","818","2013-11-23",40000,"Sept-Îles","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-23",FALSE,FALSE,FALSE,NA,24039,37845
+"Odile Lavoie","G3A1A6","Bloc Québécois Roberval--Lac-Saint-Jean","5","2013-04-24",40000,"St-Augustin De Desmaures","QC",FALSE,"Bloc Québécois",FALSE,"2013-04-24",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",24051,39742
+"Olive Gagnon","H1J2Y3","Bloc Québécois","423","2013-10-26",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-26",FALSE,FALSE,FALSE,NA,24022,35745
+"Olivier Laroche","H3N2A5","Bloc Québécois","616","2013-06-26",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-26",FALSE,FALSE,FALSE,NA,24048,40394
+"Olivier Péloquin","J3P0C4","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","51","2013-12-31",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41444
+"Omer Bousquet","J2S2Y2","Bloc Québécois","172","2013-04-08",30000,"Saint-Hyacinthe","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-08",FALSE,FALSE,FALSE,NA,24063,35602
+"Oscar-Robert Longtin","H1W3J7","Bloc Québécois","665","2013-11-21",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-21",FALSE,FALSE,FALSE,NA,24021,37599
+"Paolo Mori","J6X2V2","Association de circonscription du Bloc Québécois Montcalm","4","2013-12-30",100000,"Terrebonne","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-30",FALSE,FALSE,FALSE,"Montcalm",24071,40500
+"Pascal Lebel","G1S3G7","Bloc Québécois","621","2013-12-10",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,NA,24052,41398
+"Patricia Vincent","H1H3S3","Bloc Québécois","942","2013-11-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Patricia Vincent","H1H3S3","Bloc Québécois","934","2013-03-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Patricia Vincent","H1H3S3","Bloc Québécois","936","2013-05-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Patricia Vincent","H1H3S3","Bloc Québécois","939","2013-08-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Patricia Vincent","H1H3S3","Bloc Québécois","943","2013-12-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Patricia Vincent","H1H3S3","Bloc Québécois","937","2013-06-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Patricia Vincent","H1H3S3","Bloc Québécois","941","2013-10-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Patricia Vincent","H1H3S3","Bloc Québécois","940","2013-09-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Patricia Vincent","H1H3S3","Bloc Québécois","938","2013-07-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Patricia Vincent","H1H3S3","Bloc Québécois","935","2013-04-15",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24009,39266
+"Paul Audet","G0R2S0","Bloc Québécois","36","2013-03-21",40000,"Saint-Camille-de-Lellis","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24034,35525
+"Paul Buissonneau","H3K3H7","Bloc Québécois","205","2013-09-30",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24024,3625
+"Paul Buissonneau","H3K3H7","Bloc Québécois","204","2013-12-02",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-02",FALSE,FALSE,FALSE,NA,24024,3625
+"Paul Crête","G0R1Z0","Bloc Québécois","270","2013-02-22",38500,"La Pocatière","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-22",FALSE,FALSE,FALSE,NA,24058,2165
+"Paul Déry","H2P2E7","Bloc Québécois","342","2013-12-19",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24048,35672
+"Paul PA Alain","G6P5B8","Bloc Québécois Richmond--Arthabaska","1","2013-10-02",20400,"Victoriaville","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-02",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24055,2701
+"Paul-André Bastille","G5R3X8","Bloc Québécois","52","2013-12-31",10000,"Rivière-du-Loup","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24058,2603
+"Paul-André Bastille","G5R3X8","Bloc Québécois","50","2013-10-29",20000,"Rivière-du-Loup","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24058,2603
+"Paul-André Bastille","G5R3X8","Bloc Québécois","51","2013-11-29",10000,"Rivière-du-Loup","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-29",FALSE,FALSE,FALSE,NA,24058,2603
+"Paul-André Leduc","J6A6K8","Bloc Québécois","632","2013-10-08",20000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-08",FALSE,FALSE,FALSE,NA,24053,41402
+"Paul-André Leduc","J6A6K8","Bloc Québécois","631","2013-03-22",10000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-22",FALSE,FALSE,FALSE,NA,24053,41402
+"Paul-André Loiselle","J6J3C6","Bloc Québécois","663","2013-11-14",50000,"Châteauguay","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-14",FALSE,FALSE,FALSE,NA,24015,41289
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","846","2013-12-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","836","2013-02-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","835","2013-01-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","845","2013-11-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","840","2013-06-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","841","2013-07-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","844","2013-10-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","839","2013-05-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","837","2013-03-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","843","2013-09-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","842","2013-08-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Émile Robert","J0B1X0","Bloc Québécois","838","2013-04-01",2500,"Kingsbury","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24018,41001
+"Paul-Eugène Couture","G1Y3C6","Bloc Québécois","268","2013-03-27",40000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-27",FALSE,FALSE,FALSE,NA,NA,37761
+"Paule - Ange Dufour","J0E1M0","Bloc Québécois de Brome--Missisquoi","6","2013-09-15",40000,"Dunham",NA,FALSE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,"Brome—Missisquoi",24010,4834
+"Paulin PB Bouchard","G0M1T0","Bloc Québécois Richmond--Arthabaska","3","2013-09-13",20400,"Saint-Gédéon-de-Bea","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-13",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24005,41203
+"Pauline Heitz","J1H4X3","Bloc Québécois","522","2013-04-16",40000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-16",FALSE,FALSE,FALSE,NA,24070,41387
+"Pauline Marois","H2Y1M9","Bloc Québécois","687","2013-12-12",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-12",FALSE,FALSE,FALSE,NA,24075,41406
+"Philippe Paré","G1X5H8","Bloc Québécois","786","2013-03-21",20000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-21",FALSE,FALSE,FALSE,NA,24037,41417
+"Philippe Paré","G1X5H8","Bloc Québécois","787","2013-09-30",10000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24037,41417
+"Pierre A. PA Arnold","J3P1K1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","2","2013-01-24",10000,"Sainte-Anne-de-Sorel","QC",FALSE,"Bloc Québécois",FALSE,"2013-01-24",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41439
+"Pierre A. PA Arnold","J3P1K1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","3","2013-12-10",20000,"Sainte-Anne-de-Sorel","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41439
+"Pierre Bastien","J0T2R0","Bloc Québécois","49","2013-05-15",30000,"Val-Morin","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24004,41361
+"Pierre Benoit","H1N3N6","Bloc Québécois","98","2013-10-23",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-23",FALSE,FALSE,FALSE,NA,24022,40318
+"Pierre Bouchard","G7G1T3","Bloc Québécois Chicoutimi--Le Fjord","3","2013-12-31",40000,"Saguenay","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Chicoutimi—Le Fjord",24016,37426
+"Pierre Drapeau","J4B8K1","Bloc Québécois","361","2013-03-13",28500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-13",FALSE,FALSE,FALSE,NA,24074,41260
+"Pierre Goulet","J8Y1J6","Bloc Québécois","485","2013-05-13",20000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-13",FALSE,FALSE,FALSE,NA,24023,35777
+"Pierre Goulet","J8Y1J6","Bloc Québécois","484","2013-04-15",20000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24023,35777
+"Pierre Harvey","H3E1T4","Bloc Québécois","513","2013-04-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Harvey","H3E1T4","Bloc Québécois","512","2013-03-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Harvey","H3E1T4","Bloc Québécois","520","2013-11-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Harvey","H3E1T4","Bloc Québécois","516","2013-07-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Harvey","H3E1T4","Bloc Québécois","521","2013-12-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Harvey","H3E1T4","Bloc Québécois","517","2013-08-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Harvey","H3E1T4","Bloc Québécois","514","2013-05-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Harvey","H3E1T4","Bloc Québécois","518","2013-09-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Harvey","H3E1T4","Bloc Québécois","515","2013-06-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Harvey","H3E1T4","Bloc Québécois","519","2013-10-01",4000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24024,3468
+"Pierre Lacombe","H1H4T8","Bloc Québécois","569","2013-02-28",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-28",FALSE,FALSE,FALSE,NA,24009,35828
+"Pierre Lacombe","H1H4T8","Bloc Québécois","570","2013-09-26",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-26",FALSE,FALSE,FALSE,NA,24009,35828
+"Pierre Lalongé","J0K2P0","Bloc Québécois","579","2013-10-09",40000,"Saint-Ignace-de-Loyola","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-09",FALSE,FALSE,FALSE,NA,24008,41392
+"Pierre Morin","H3L2Z6","Bloc Québécois","720","2013-12-13",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-13",FALSE,FALSE,FALSE,NA,24002,40254
+"Pierre Noël","H2L3R4","Bloc Québécois","736","2013-04-03",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-03",FALSE,FALSE,FALSE,NA,24031,35965
+"Pierre Noël","H2L3R4","Bloc Québécois","737","2013-09-26",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-26",FALSE,FALSE,FALSE,NA,24031,35965
+"Pierre Peat","J4J4P4","Bloc Québécois","796","2013-03-14",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-14",FALSE,FALSE,FALSE,NA,24035,39210
+"Pierre Peat","J4J4P4","Bloc Québécois","797","2013-11-22",41500,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-22",FALSE,FALSE,FALSE,NA,24035,39210
+"Pierre Pleau","J0L2E0","Bloc Québécois","802","2013-10-29",40000,"Saint-Marc-sur-Richelieu","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24012,4963
+"Pierre Renaud","H2V4R3","Bloc Québécois","827","2013-04-04",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-04",FALSE,FALSE,FALSE,NA,24047,39224
+"Pierre Rodier","J1X6S4","Bloc Québécois","851","2013-04-08",41500,"Orford","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-08",FALSE,FALSE,FALSE,NA,24010,38165
+"Pierre Samson","G7S1Z6","Bloc Québécois","871","2013-11-18",40000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24026,41424
+"Pierre Valois","H1W3L5","Bloc Québécois","927","2013-04-08",50000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-08",FALSE,FALSE,FALSE,NA,24021,36783
+"Pierre-André Julien","G9H4W4","Bloc Québécois","551","2013-04-17",29000,"Bécancour","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-17",FALSE,FALSE,FALSE,NA,24054,2915
+"Rachel Girouard","J1R0A9","Bloc Québécois","467","2013-09-16",40000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-16",FALSE,FALSE,FALSE,NA,24017,41383
+"Raymond Chauvet","J9A1S9","Bloc Québécois","247","2013-12-20",24000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-20",FALSE,FALSE,FALSE,NA,24023,6191
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","274","2013-01-01",2000,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","275","2013-04-01",1200,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","280","2013-09-01",2200,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","277","2013-06-01",2200,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","276","2013-05-01",2200,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","279","2013-08-01",2200,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","281","2013-10-01",2200,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","278","2013-07-01",2200,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","283","2013-12-01",2200,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond D'Auteuil","G5C1T6","Bloc Québécois","282","2013-11-01",2200,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24039,35660
+"Raymond Désautels","H1R1B5","Bloc Québécois","344","2013-10-23",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-23",FALSE,FALSE,FALSE,NA,24067,3004
+"Raymond Désautels","H1R1B5","Bloc Québécois","343","2013-03-27",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-27",FALSE,FALSE,FALSE,NA,24067,3004
+"Raymond Gagnier","H1J1W6","Bloc Québécois","409","2013-02-28",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-28",FALSE,FALSE,FALSE,NA,24022,37030
+"Raymond Gagnier","H1J1W6","Bloc Québécois","410","2013-09-30",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24022,37030
+"Raymond Leblanc","J0G1B0","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","36","2013-12-10",40000,"Grand-Saint-Esprit","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41441
+"Raymond Richard","H7X2L4","Bloc Québécois","830","2013-10-01",40000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24033,36020
+"Raymonde Dallaire","J4L2J4","Bloc Québécois","285","2013-03-04",40000,"Longueuil","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24065,35655
+"Raynald Drouin","J6N1M9","Bloc Québécois","364","2013-09-08",40000,"Beauharnois","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-08",FALSE,FALSE,FALSE,NA,24006,5812
+"REAL DEMERS","H7A4C6","Bloc Québécois Alfred-Pellan","3","2013-10-17",40000,"LAVAL","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-17",FALSE,FALSE,FALSE,"Alfred-Pellan",24003,4348
+"Réal Grondin","G6B1R5","Bloc Québécois","493","2013-03-06",75000,"Lac-Mégantic","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-06",FALSE,FALSE,FALSE,NA,24042,2623
+"Réal Larochelle","H2V3B1","Bloc Québécois","617","2013-10-16",30000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-16",FALSE,FALSE,FALSE,NA,24047,39883
+"Réal RG Gauthier","J0N1H0","Bloc Québécois Richmond--Arthabaska","12","2013-10-03",20400,"Sainte-Anne-des-Plai","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-03",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24004,41458
+"Réal Rg Grondin","G6L1R5","Bloc Québécois Mégantic--L'Érable","1","2013-03-16",20500,"Lac Mégantic","QC",FALSE,"Bloc Québécois",FALSE,"2013-03-16",FALSE,FALSE,FALSE,"Mégantic—L'Érable",24042,39682
+"Régent Lussier","H1L5N6","Bloc Québécois","667","2013-12-31",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24028,35924
+"Réjean Carrier","H1K2E3","Bloc Québécois","211","2013-10-29",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-29",FALSE,FALSE,FALSE,NA,24022,35623
+"Réjean Côté","H3C4J6","Bloc Québécois","262","2013-11-18",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24024,41254
+"Réjean Raiche","J0E1Z0","Bloc Québécois","825","2013-11-18",40000,"Roxton Pond","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-18",FALSE,FALSE,FALSE,NA,24063,4855
+"Réjean Talbot","J1N1R1","Bloc Québécois","895","2013-12-15",4000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24017,5192
+"Réjean Talbot","J1N1R1","Bloc Québécois","892","2013-05-06",40000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-06",FALSE,FALSE,FALSE,NA,24017,5192
+"Réjean Talbot","J1N1R1","Bloc Québécois","893","2013-10-15",4000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24017,5192
+"Réjean Talbot","J1N1R1","Bloc Québécois","894","2013-11-15",4000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24017,5192
+"Rémi Lachance","G0A1E0","Bloc Québécois","568","2013-09-25",30000,"Beaupré","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-25",FALSE,FALSE,FALSE,NA,24014,35824
+"Rémi Lefebvre","J6K5C3","Bloc Québécois","636","2013-04-15",40000,"Châteauguay","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24015,41284
+"Rémy RL Lavoie","J3L6B9","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","35","2013-12-10",40000,"Saint-Mathias-sur-Richelieu","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24012,40126
+"Renaud Martel","J9P2G3","Association du Bloc Québécois d'Abitibi--Baie-James--Nunavik--Eeyou","3","2013-05-29",40000,"Val-d'Or","QC",FALSE,"Bloc Québécois",FALSE,"2013-05-29",FALSE,FALSE,FALSE,"Abitibi—Baie-James—Nunavik—Eeyou",24046,40507
+"René J. Demers","J3G2R7","Bloc Québécois","337","2013-09-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","330","2013-02-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","335","2013-07-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","333","2013-05-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","338","2013-10-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","340","2013-12-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","329","2013-01-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","339","2013-11-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","331","2013-03-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","334","2013-06-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","336","2013-08-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René J. Demers","J3G2R7","Bloc Québécois","332","2013-04-15",2000,"Beloeil","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-15",FALSE,FALSE,FALSE,NA,24012,40348
+"René Marois","J2G8G8","Association du Bloc Québécois de Shefford","3","2013-09-27",40000,"Granby","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-27",FALSE,FALSE,FALSE,"Shefford",24069,5296
+"René RD Doucet","J3P6J6","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","15","2013-12-16",40000,"Sainte-Anne-de-Sorel","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,38738
+"Renée Descoteaux","J1N1R1","Bloc Québécois","349","2013-05-06",40000,"Sherbrooke","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-06",FALSE,FALSE,FALSE,NA,24017,39080
+"Reynald RB Bergeron","J3P5N3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","7","2013-12-10",40000,"Sainte-Anne-de-Sorel","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5450
+"Richard Cloutier","J5R5J6","Bloc Québécois","253","2013-12-17",40000,"La Prairie","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-17",FALSE,FALSE,FALSE,NA,24011,39051
+"Richard Côté","G0A2R0","Bloc Québécois","263","2013-11-17",40000,"Neuville","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-17",FALSE,FALSE,FALSE,NA,24051,2057
+"Richard Dufresne","H1A4L5","Bloc Québécois","373","2013-11-12",2500,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-12",FALSE,FALSE,FALSE,NA,24028,2942
+"Richard Dufresne","H1A4L5","Bloc Québécois","372","2013-05-01",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24028,2942
+"Richard Filion","J8X3W9","Bloc Québécois","394","2013-11-29",30000,"Gatineau","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-29",FALSE,FALSE,FALSE,NA,24023,41378
+"Richard Nadeau","J8R1N2","Association de circonscription du Bloc Québécois de Gatineau","4","2013-01-12",120000,"Gatineau","QC",FALSE,"Bloc Québécois",FALSE,"2013-01-12",FALSE,FALSE,FALSE,"Gatineau",24020,6063
+"Richard RF Fortin","J7C4S8","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","21","2013-05-14",40000,"Blainville","QC",FALSE,"Bloc Québécois",FALSE,"2013-05-14",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24071,39532
+"RITA AQUIN","H3M2Y8","Bloc Québécois Alfred-Pellan","1","2013-06-27",40000,"MONTREAL","QC",FALSE,"Bloc Québécois",FALSE,"2013-06-27",FALSE,FALSE,FALSE,"Alfred-Pellan",24002,3660
+"Robert Asselin","G1C7P9","Bloc Québécois","21","2013-12-31",35000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,NA,24007,40309
+"Robert Bénard","J4B5B5","Bloc Québécois","93","2013-08-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-08-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","86","2013-01-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-01-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","89","2013-04-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","87","2013-02-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","91","2013-06-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","95","2013-10-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","88","2013-03-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","94","2013-09-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","96","2013-11-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","90","2013-05-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","97","2013-12-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bénard","J4B5B5","Bloc Québécois","92","2013-07-01",2500,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-07-01",FALSE,FALSE,FALSE,NA,24074,5541
+"Robert Bouchard","G7H0B7","Bloc Québécois","167","2013-06-14",10000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-14",FALSE,FALSE,FALSE,NA,24016,41338
+"Robert Bouchard","G7H0B7","Bloc Québécois","166","2013-03-11",40000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-11",FALSE,FALSE,FALSE,NA,24016,41338
+"Robert Carrier","H7E1B2","Bloc Québécois","212","2013-10-09",40000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-09",FALSE,FALSE,FALSE,NA,24003,4353
+"Robert Dalpé","J7V6B5","Bloc Québécois","286","2013-12-19",40000,"Pincourt","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24073,35656
+"Robert G. Tessier","G1S4T9","Bloc Québécois","900","2013-02-18",30000,"Québec","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-18",FALSE,FALSE,FALSE,NA,24037,36085
+"Robert Maheu","H4A3B8","Bloc Québécois","668","2013-09-24",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-24",FALSE,FALSE,FALSE,NA,24075,37820
+"Robert Poisson","J2B5K5","Bloc Québécois","819","2013-11-20",40000,"Drummondville","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-20",FALSE,FALSE,FALSE,NA,24018,36765
+"Robert Provost","H2L2Z7","Bloc Québécois","823","2013-10-03",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-03",FALSE,FALSE,FALSE,NA,24031,37848
+"Robert RG Gaudette","J3P4E8","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","23","2013-12-10",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,41345
+"Robert RI Isabelle","G0P1B0","Bloc Québécois Richmond--Arthabaska","14","2013-10-03",20400,"Saint-Norbert-d'Artha","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-03",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24042,2148
+"Robert Talbot","J6W1S4","Bloc Québécois","896","2013-12-19",40000,"Terrebonne","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24071,38522
+"Robert Vincent","J2G1A6","Association du Bloc Québécois de Shefford","5","2013-12-18",40000,"Granby","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-18",FALSE,FALSE,FALSE,"Shefford",24069,5286
+"Roch-Yves Simard","G3N1X8","Bloc Québécois","881","2013-09-05",40000,"Fossambault-sur-le-Lac","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-05",FALSE,FALSE,FALSE,NA,24051,41020
+"Rock Flamand","G7X9G4","Bloc Québécois","395","2013-06-17",25000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-17",FALSE,FALSE,FALSE,NA,24026,39838
+"Roger A. Cormier","H3L2V3","Bloc Québécois","257","2013-12-09",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-09",FALSE,FALSE,FALSE,NA,24002,35643
+"Roger Garant","G6B2Z6","Bloc Québécois","425","2013-10-18",40000,"Lac-Mégantic","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-18",FALSE,FALSE,FALSE,NA,24042,2627
+"Roger Gaudet","J0K2X0","Bloc Québécois","428","2013-03-07",40000,"Saint-Liguori","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-07",FALSE,FALSE,FALSE,NA,24008,4938
+"Roger Gaudet","J0K2X0","Association de circonscription du Bloc Québécois Montcalm","2","2013-10-24",70000,"Saint-Liguori","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-24",FALSE,FALSE,FALSE,"Montcalm",24008,4938
+"Roger Lalonde","J4R2T7","Bloc Québécois","578","2013-03-04",30000,"Saint-Lambert","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-04",FALSE,FALSE,FALSE,NA,24065,40926
+"Roger Leblanc","G8Y0C2","Bloc Québécois","623","2013-04-02",35000,"Trois-Rivières","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-02",FALSE,FALSE,FALSE,NA,24072,41399
+"Roger Nadeau","J1N0B6","Bloc Québécois Compton--Stanstead","5","2013-09-25",40000,"Sherbrooke","QC",FALSE,"Bloc Québécois",FALSE,"2013-09-25",FALSE,FALSE,FALSE,"Compton—Stanstead",24017,5190
+"Roger Parent","H8P1X7","Bloc Québécois","790","2013-04-17",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-04-17",FALSE,FALSE,FALSE,NA,24029,35987
+"Roger Parent","H8P1X7","Bloc Québécois","791","2013-11-08",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-08",FALSE,FALSE,FALSE,NA,24029,35987
+"Rosaire Jacques","H4G2R2","Bloc Québécois","542","2013-12-07",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-07",FALSE,FALSE,FALSE,NA,24024,4180
+"Ruth Potvin","J2N2R2","Bloc Québécois de Brome--Missisquoi","4","2013-12-18",40000,"Farnham",NA,FALSE,"Bloc Québécois",FALSE,"2013-12-18",FALSE,FALSE,FALSE,"Brome—Missisquoi",24010,38761
+"Serge Gendron","G0S2E0","Bloc Québécois","446","2013-10-01",30000,"Saint-Apollinaire","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24036,38453
+"Serge Houle","J1G3W2","Bloc Québécois Sherbrooke","1","2013-12-04",40000,"Sherbrooke","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-04",FALSE,FALSE,FALSE,"Sherbrooke",24070,5148
+"Serge Ménard","J4R1K9","Bloc Québécois","700","2013-10-21",118500,"Saint-Lambert","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-21",FALSE,FALSE,FALSE,NA,24065,5628
+"Serge Meunier","H1W1G8","Bloc Québécois","701","2013-10-25",12000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-25",FALSE,FALSE,FALSE,NA,24021,41407
+"Serge Meunier","H1W1G8","Bloc Québécois","702","2013-12-17",10000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-17",FALSE,FALSE,FALSE,NA,24021,41407
+"Serge SD Desjardins","J3P5W3","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","14","2013-12-16",40000,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,38736
+"Serge Vachon","J4B6A8","Bloc Québécois","923","2013-10-22",40000,"Boucherville","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-22",FALSE,FALSE,FALSE,NA,24035,41432
+"SIMON CARRIER","H7P0A6","Bloc Québécois Alfred-Pellan","2","2013-11-29",40000,"LAVAL","QC",FALSE,"Bloc Québécois",FALSE,"2013-11-29",FALSE,FALSE,FALSE,"Alfred-Pellan",24032,41128
+"Simon Paré","H2V3W1","Bloc Québécois","788","2013-05-10",40001,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-10",FALSE,FALSE,FALSE,NA,24047,35986
+"Solange Desbiens-Léonard","H7G1W6","Bloc Québécois","345","2013-12-06",30000,"Laval","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-06",FALSE,FALSE,FALSE,NA,24003,41374
+"Stéphane Bédard","G7H1N9","Bloc Québécois Chicoutimi--Le Fjord","2","2013-12-31",40000,"Saguenay","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-31",FALSE,FALSE,FALSE,"Chicoutimi—Le Fjord",24016,2752
+"Stéphane SB Bergeron","J3X2C3","Association du Bloc Québécois Verchères--Les Patriotes","2","2013-12-19",75000,"Varennes","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,"Verchères—Les Patriotes",24074,5518
+"Stéphane SB Bergeron","J3X2C3","Association du Bloc Québécois Verchères--Les Patriotes","1","2013-05-18",1000,"Varennes","QC",FALSE,"Bloc Québécois",FALSE,"2013-05-18",FALSE,FALSE,FALSE,"Verchères—Les Patriotes",24074,5518
+"Suzanne Rivard","J2R1N1","Bloc Québécois","832","2013-03-20",40000,"Saint-Hyacinthe","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-20",FALSE,FALSE,FALSE,NA,24063,40209
+"Suzelle Lespérance","H1N3E3","Bloc Québécois","641","2013-05-02",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-02",FALSE,FALSE,FALSE,NA,24028,40949
+"Sylvie Desjardins","J1N3V3","Bloc Québécois Compton--Stanstead","3","2013-03-26",40500,"Sherbrooke","QC",FALSE,"Bloc Québécois",FALSE,"2013-03-26",FALSE,FALSE,FALSE,"Compton—Stanstead",24017,5203
+"Sylvie Vallières","G6V8G4","Bloc Québécois","926","2013-12-19",25000,"Lévis","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-19",FALSE,FALSE,FALSE,NA,24034,41434
+"Thérèse Grondin","G6G7Y5","Bloc Québécois","494","2013-02-27",30000,"Thetford Mines","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-27",FALSE,FALSE,FALSE,NA,24042,39129
+"Thérèse Naud","G0A3B0","Bloc Québécois","735","2013-06-17",40000,"Saint-Alban","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-17",FALSE,FALSE,FALSE,NA,24051,41298
+"Véronique Hivon","J0K2X0","Bloc Québécois de Joliette","2","2013-04-28",40000,"St-Liguori","QC",FALSE,"Bloc Québécois",FALSE,"2013-04-28",FALSE,FALSE,FALSE,"Joliette",24008,4941
+"Viateur VM Massé","J3R2G1","Bloc Québécois de Bas-Richelieu--Nicolet--Bécancour","42","2013-12-10",39500,"Sorel-Tracy","QC",FALSE,"Bloc Québécois",FALSE,"2013-12-10",FALSE,FALSE,FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,5456
+"Victor Tremblay","G8L5H1","Bloc Québécois Roberval--Lac-Saint-Jean","9","2013-10-16",40000,"Dolbeau-Mistassini","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-16",FALSE,FALSE,FALSE,"Roberval—Lac-Saint-Jean",24060,38945
+"Villemaire Paquin","J4V1V2","Bloc Québécois","769","2013-10-01",30000,"Greenfield Park","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,NA,24065,40435
+"Vincenzo Guadagnano","H3L2W2","Bloc Québécois","495","2013-05-29",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-05-29",FALSE,FALSE,FALSE,NA,24002,3635
+"Yvan Côté","J3Y8P6","Bloc Québécois","264","2013-03-25",40000,"Saint-Hubert","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-25",FALSE,FALSE,FALSE,NA,24062,39061
+"Yvan Tellier","H2V2T8","Bloc Québécois","897","2013-12-17",40000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-17",FALSE,FALSE,FALSE,NA,24047,39934
+"Yvan Tremblay","G7B1C9","Bloc Québécois","917","2013-11-07",40000,"Saguenay","QC",TRUE,"Bloc Québécois",FALSE,"2013-11-07",FALSE,FALSE,FALSE,NA,24016,41038
+"Yves Bellefeuille","K1H8J4","Bloc Québécois","82","2013-07-04",71500,"Ottawa","ON",TRUE,"Bloc Québécois",FALSE,"2013-07-04",FALSE,FALSE,FALSE,NA,35064,35556
+"Yves Dubé","J5Z4G2","Bloc Québécois","366","2013-09-25",20000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-25",FALSE,FALSE,FALSE,NA,24053,40847
+"Yves Dubé","J5Z4G2","Bloc Québécois","365","2013-03-01",20000,"Repentigny","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-01",FALSE,FALSE,FALSE,NA,24053,40847
+"Yves Lessard","J3N1G6","Bloc Québécois","642","2013-12-12",40000,"Saint-Basile-le-Grand","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-12",FALSE,FALSE,FALSE,NA,24012,36198
+"Yves Martin","H2V2A7","Bloc Québécois","689","2013-03-06",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-03-06",FALSE,FALSE,FALSE,NA,24047,35936
+"Yves Martin","H2V2A7","Bloc Québécois","690","2013-09-30",20000,"Montréal","QC",TRUE,"Bloc Québécois",FALSE,"2013-09-30",FALSE,FALSE,FALSE,NA,24047,35936
+"Yves Michaud","G4Z1Z1","Bloc Québécois","705","2013-12-30",30000,"Baie-Comeau","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-30",FALSE,FALSE,FALSE,NA,24039,40963
+"Yves Rocheleau","G8Z3T7","Bloc Québécois","850","2013-02-17",40000,"Trois-Rivières","QC",TRUE,"Bloc Québécois",FALSE,"2013-02-17",FALSE,FALSE,FALSE,NA,24072,2893
+"Yves Vaillancourt","J4P3R6","Bloc Québécois","924","2013-10-15",40000,"Saint-Lambert","QC",TRUE,"Bloc Québécois",FALSE,"2013-10-15",FALSE,FALSE,FALSE,NA,24065,40466
+"Yvon Faille","J0P1P0","Bloc Québécois","390","2013-12-16",40000,"Rigaud","QC",TRUE,"Bloc Québécois",FALSE,"2013-12-16",FALSE,FALSE,FALSE,NA,24073,5004
+"Yvon Levesque","J0Y2P0","Association du Bloc Québécois d'Abitibi--Baie-James--Nunavik--Eeyou","2","2013-05-29",42000,"Val-d'Or","QC",FALSE,"Bloc Québécois",FALSE,"2013-05-29",FALSE,FALSE,FALSE,"Abitibi—Baie-James—Nunavik—Eeyou",NA,5135
+"Yvon St-Onge","G0T1L0","Bloc Québécois","889","2013-06-27",40000,"Notre-Dame-des-Monts","QC",TRUE,"Bloc Québécois",FALSE,"2013-06-27",FALSE,FALSE,FALSE,NA,24014,37193
+"Yvon YD Daigle","J0B2P0","Bloc Québécois Richmond--Arthabaska","7","2013-10-01",50000,"Saint-Denis-de-Brom","QC",FALSE,"Bloc Québécois",FALSE,"2013-10-01",FALSE,FALSE,FALSE,"Richmond—Arthabaska",24010,41455
