@@ -8,3 +8,5 @@
 .Rdata
 
 .DS_Store
+
+[0-9]*/
