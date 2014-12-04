@@ -11,3 +11,4 @@ province_levels <-
   c("AB", "BC", "MB", "NB", "NL", "NS", "NT", "NU", "ON", "PE", "QC", "SK", "YT", NA)
 all_years <-
   c("2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013")
+all_data_csv_file_name <- "all_contributions_2004_to_2013.csv"
