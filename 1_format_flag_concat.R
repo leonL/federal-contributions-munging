@@ -6,6 +6,7 @@ library("GetoptLong")
 target_dir_name <- "1_format_flag_concat_output"
 dir.create(target_dir_name)
 
+# source_dir_name <- "0_test_raw_data" # DO NOT COMMIT THIS LINE IF IT IS UNCOMMENTED
 source_dir_name <- "raw_data_as_submitted"
 subfolders <- c("Bloc", "Conservative", "Green", "Liberal", "NDP")
 
