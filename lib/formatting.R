@@ -58,26 +58,23 @@ flag_errant_contribtuion_amounts <- function(data_set)
 adjust_errant_dates <- function(data_set, current_year)
 {
   # var setup
-  current_year_numeric <- as.numeric(current_year)
-  next_year <- as.character(current_year_numeric + 1)
-  last_year <- as.character(current_year_numeric - 1)
-  max_date <- as.Date(GetoptLong::qq("@{next_year}-04-01"))
-  min_date <- as.Date(GetoptLong::qq("@{last_year}-10-01"))
+  max_date <- as.Date(GetoptLong::qq("@{current_year}-12-31"))
+  min_date <- as.Date(GetoptLong::qq("@{current_year}-01-01"))
 
   within(data_set, {
-    contribution_date <- str_trim(contribution_date)
+    contribution_date.ec <- str_trim(contribution_date.ec)
 
-    contribution_date <- as.Date(contribution_date, format="%b %d, %Y")
-    adjusted.contribution_date <- contribution_date
+    contribution_date.ec <- as.Date(contribution_date.ec, format="%b %d, %Y")
+    contribution_date.adjusted <- contribution_date.ec
 
     invalid_years <- (
-      !is.na(adjusted.contribution_date) &
-      (adjusted.contribution_date > max_date |
-       adjusted.contribution_date < min_date)
+      !is.na(contribution_date.adjusted) &
+      (contribution_date.adjusted > max_date |
+       contribution_date.adjusted < min_date)
     )
 
-    adjusted.contribution_date[invalid_years] <-
-      strftime(adjusted.contribution_date[invalid_years],
+    contribution_date.adjusted[invalid_years] <-
+      strftime(contribution_date.adjusted[invalid_years],
       GetoptLong::qq("@{current_year}-%m-%d"))
   })
 }
