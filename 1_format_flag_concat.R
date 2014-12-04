@@ -1,7 +1,6 @@
 # concatenate all CSVs, perform basic transforms, formatting and flagging
 
-source("lib/constants.R")
-source("lib/formatting.R")
+source("lib/formatting.R", chdir=TRUE)
 library("GetoptLong")
 
 target_dir_name <- "1_format_flag_concat_output"
