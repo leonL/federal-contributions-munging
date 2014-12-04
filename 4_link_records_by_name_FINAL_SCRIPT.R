@@ -10,8 +10,7 @@ munged_data_dir_name <- "munged_data"
 dir.create(munged_data_dir_name)
 
 source_dir_name <- "3_contributors_riding_output"
-date_set_file_name <- "submitted_contributions_2004_to_2013.csv"
-data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{date_set_file_name}"), encoding="UTF-8")
+data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{all_data_csv_file_name}"), encoding="UTF-8")
 
 print("Subsetting unique names by postal code...")
 name_and_postal_data <- data_set[,c("full_name", "postal_code")]
@@ -73,7 +72,7 @@ print("Merging contributor_ids into data set...")
 data_set <- merge(data_set, unique_name_and_postal)
 
 print("Writing csv files...")
-write.csv(data_set, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"), row.names=FALSE)
+write.csv(data_set, file=GetoptLong::qq("@{target_dir_name}/@{all_data_csv_file_name}"), row.names=FALSE)
 
 # separate data by party name and year, and save each subset (for reasonably sized files)
 all_party_names <- levels(data_set$party_name)

@@ -8,7 +8,7 @@ dir.create(target_dir_name)
 
 # source_dir_name <- "0_test_raw_data" # DO NOT COMMIT THIS LINE IF IT IS UNCOMMENTED
 source_dir_name <- "raw_data_as_submitted"
-subfolders <- c("Bloc", "Conservative", "Green", "Liberal", "NDP")
+subfolders <- names(official_party_names)
 
 data_set <- data.frame()
 
@@ -41,5 +41,5 @@ data_set <- flag_errant_contribtuion_amounts(data_set)
 
 # write munged and concatenated data set to CSV
 write.csv(
-  data_set, file=GetoptLong::qq("@{target_dir_name}/submitted_contributions_2004_to_2013.csv"), row.names=FALSE
+  data_set, file=GetoptLong::qq("@{target_dir_name}/@{all_data_csv_file_name}"), row.names=FALSE
 )
