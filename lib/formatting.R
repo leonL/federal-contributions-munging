@@ -51,7 +51,8 @@ flag_errant_contribtuion_amounts <- function(data_set)
     flag.negative_contrib <- contribution_amount < 0
 
     # contributions that exceed limits
-    flag.exceeds_max_contrib <- contribution_amount > 120000
+    # The exact max contribution amount per year is still an open question (see Laura Anthony)
+    # flag.exceeds_max_contrib <- contribution_amount > 120000
   })
 }
 

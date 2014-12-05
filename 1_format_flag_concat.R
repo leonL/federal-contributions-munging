@@ -38,6 +38,8 @@ print("Munging character columns...")
 data_set <- clean_char_columns(data_set)
 print("Flagging errant contribution amounts")
 data_set <- flag_errant_contribtuion_amounts(data_set)
+print("Trimming data to keep bloat under control...")
+data_set <- data_set[, c(-2, -4, -11)]
 
 # write munged and concatenated data set to CSV
 write.csv(
