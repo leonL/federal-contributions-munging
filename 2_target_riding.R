@@ -1,6 +1,7 @@
 # normalize riding names used by different parties
 
 source("lib/federal_ridings.R")
+source("lib/constants.R")
 
 library(stringr)
 library(stringdist)
@@ -10,8 +11,7 @@ target_dir_name <- "2_target_riding_output"
 dir.create(target_dir_name)
 
 source_dir_name <- "1_format_flag_concat_output"
-date_set_file_name <- "submitted_contributions_2004_to_2013.csv"
-data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{date_set_file_name}"), encoding="UTF-8")
+data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{all_data_csv_file_name}"), encoding="UTF-8")
 
 # define set of official riding names (adding the missing ones)
 riding_id_name_concord <- read.csv("lib/data/riding_id_name_concord.csv", encoding="UTF-8", stringsAsFactors=FALSE)
@@ -36,7 +36,7 @@ mx <- amatch(scrubbed_target_ridings, scrubbed_official_ridings, maxDist=2)
 # add a column to the data_set with the best matching official name for every record
 target_riding <- all_official_ridings[mx[as.numeric(data_set[,"party_riding"])]]
 newdf <- cbind(data_set, target_riding)
-write.csv(newdf, file=GetoptLong::qq("@{target_dir_name}/@{date_set_file_name}"), row.names=FALSE)
+write.csv(newdf, file=GetoptLong::qq("@{target_dir_name}/@{all_data_csv_file_name}"), row.names=FALSE)
 
 # this is test code to make sure the data makes sense.
 # these are failed entries, only one in the full data 904095, has an empty party_riding
