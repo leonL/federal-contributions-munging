@@ -57,4 +57,3 @@ TRUE indicates that a contribution amount is a negative number. The meaning of n
 
 **flag.blank_contrib** (generated)
 TRUE indicates that the contribution amount of the original record was either blank or zero.
-
