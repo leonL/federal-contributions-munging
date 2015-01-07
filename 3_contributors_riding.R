@@ -1,6 +1,5 @@
 # derive the contributors home riding based on their postal code
 
-source("lib/postal_codes.R")
 source("lib/constants.R")
 
 library(GetoptLong)

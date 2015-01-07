@@ -1,4 +1,3 @@
-source("../../postal_codes.R")
 source("../../constants.R")
 
 library(GetoptLong)

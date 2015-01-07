@@ -12,3 +12,4 @@ province_levels <-
 all_years <-
   c("2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013")
 all_data_csv_file_name <- "all_contributions_2004_to_2013.csv"
+postal_code_regex <- "^[ABCEGHJKLMNPRSTVXY]{1}[[:digit:]]{1}[ABCEGHJKLMNPRSTVWXYZ]{1}[[:digit:]]{1}[ABCEGHJKLMNPRSTVWXYZ]{1}[[:digit:]]{1}$"
