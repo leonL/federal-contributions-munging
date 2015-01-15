@@ -56,12 +56,12 @@ end
 
 CSV::Converters[:na_to_nil] = Proc.new {|val| val == "NA" ? nil : val}
 complete_cases = CSV.open(
-  '1_merge_output/test_complete_cases.csv', 'a',
+  'test_complete_cases.csv', 'a',
   {quote_char: '"', force_quotes: true}
 )
 
 CSV.foreach(
-  '1_merge_output/test_incomplete_cases.csv',
+  'test_incomplete_cases.csv',
   headers: true, header_converters: :symbol,
   converters: :na_to_nil
 ) do |record|

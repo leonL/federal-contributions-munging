@@ -41,7 +41,7 @@ incomplete_cases_for_unique_postal_codes <-
 print("Writing complete cases...")
 write.csv(
   complete_cases,
-  file="1_merge_output/complete_cases.csv",
+  file="merge_geo_data_output/complete_cases.csv",
   row.names=FALSE,
   fileEncoding = "UTF-8",
 )
@@ -49,8 +49,7 @@ write.csv(
 print("Writing incomplete cases...")
 write.csv(
   incomplete_cases_for_unique_postal_codes,
-
-    file="1_merge_output/incomplete_cases.csv",
+  file="merge_geo_data_output/incomplete_cases.csv",
   row.names=FALSE,
   fileEncoding = "UTF-8",
 )
