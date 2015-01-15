@@ -34,14 +34,22 @@ for(subfolder in subfolders) {
   }
 }
 
+print("Remove superfluous columns...")
+data_set <- data_set[ ,c(
+  "party_name",
+  "federal_contribution",
+  "contribution_date",
+  "contribution_amount",
+  "full_name",
+  "postal_code",
+  "party_riding"
+)]
 print("Munging character columns...")
 data_set <- clean_char_columns(data_set)
-print("Flagging errant contribution amounts")
-data_set <- flag_errant_contribtuion_amounts(data_set)
-print("Trimming data to keep bloat under control...")
-data_set <- data_set[, c(-2, -4, -11)]
 
 # write munged and concatenated data set to CSV
 write.csv(
-  data_set, file=GetoptLong::qq("@{target_dir_name}/@{all_data_csv_file_name}"), row.names=FALSE
+  data_set,
+  file=GetoptLong::qq("@{target_dir_name}/@{all_data_csv_file_name}"),
+  row.names=FALSE
 )

@@ -82,7 +82,7 @@ for(pname in all_party_names)
   party_nickname <- names(official_party_names[official_party_names==pname])
   for(year in all_years)
   {
-    data_year_subset <- subset(data_party_subset, grepl(year, data_party_subset$contribution_date.adjusted))
+    data_year_subset <- subset(data_party_subset, grepl(year, data_party_subset$contribution_date))
     dir.create(GetoptLong::qq("@{munged_data_dir_name}/@{party_nickname}"))
     print(GetoptLong::qq("@{munged_data_dir_name}/@{party_nickname}_@{year}_contributions"))
     write.csv(data_year_subset,

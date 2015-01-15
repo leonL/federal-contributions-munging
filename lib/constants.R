@@ -1,5 +1,5 @@
 column_names <-
-  c("party_riding", "id.ec", "full_name", "contribution_date.ec",
+  c("party_riding", "id", "full_name", "contribution_date.ec",
     "contribution_amount", "city", "province", "postal_code")
 official_party_names <-
   c(Bloc="Bloc Québécois",
