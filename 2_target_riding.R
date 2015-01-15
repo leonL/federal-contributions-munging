@@ -14,7 +14,7 @@ source_dir_name <- "1_format_flag_concat_output"
 data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{all_data_csv_file_name}"), encoding="UTF-8")
 
 # define set of official riding names (adding the missing ones)
-riding_id_name_concord <- read.csv("lib/data/riding_id_name_concord.csv", encoding="UTF-8", stringsAsFactors=FALSE)
+riding_id_name_concord <- read.csv("lib/data/riding_id_name_concordance.csv", encoding="UTF-8", stringsAsFactors=FALSE)
 all_official_ridings <- c(riding_id_name_concord[[2]], missingRidings)
 
 # define set of riding names used in contrib data, and scrub boilerplate
