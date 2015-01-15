@@ -26,11 +26,17 @@ print("Merging data...")
 contrib_pcode_riding_geo_cncrdnc <-
   merge(unique_postal_codes, pcode_riding_geo_cncrdnc, all.x=TRUE)
 
+print("Subset complete cases...")
 complete_cases_bool <- complete.cases(contrib_pcode_riding_geo_cncrdnc)
-incomplete_cases <-
-  contrib_pcode_riding_geo_cncrdnc[!complete_cases_bool, ]
 complete_cases <-
   contrib_pcode_riding_geo_cncrdnc[complete_cases_bool, ]
+
+print("Subset incomplete cases...")
+incomplete_cases <-
+  contrib_pcode_riding_geo_cncrdnc[!complete_cases_bool, ]
+# the find_missing_geo_data script assumes the postal code is unique
+incomplete_cases_for_unique_postal_codes <-
+  incomplete_cases[!duplicated(as.character(incomplete_cases$postal_code)), ]
 
 print("Writing complete cases...")
 write.csv(
@@ -42,8 +48,9 @@ write.csv(
 
 print("Writing incomplete cases...")
 write.csv(
-  incomplete_cases,
-  file="1_merge_output/incomplete_cases.csv",
+  incomplete_cases_for_unique_postal_codes,
+
+    file="1_merge_output/incomplete_cases.csv",
   row.names=FALSE,
   fileEncoding = "UTF-8",
 )
