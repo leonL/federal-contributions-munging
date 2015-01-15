@@ -12,7 +12,7 @@ set_column_names <- function(data_set)
 clean_char_columns <- function(data_set)
 {
   within(data_set, {
-    full_name <- totitle(str_trim(full_name))
+    full_name <- titleCase(str_trim(full_name))
     full_name[full_name == ""] <- NA
 
     city <- totitle(str_trim(city))
