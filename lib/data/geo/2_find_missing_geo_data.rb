@@ -17,11 +17,19 @@ class RepresetPostalCodeConcordance
     response["city"]
   end
 
+  def latitude
+    response["centroid"]["coordinates"][1]
+  end
+
+  def longitude
+    response["centroid"]["coordinates"][0]
+  end
+
   def ridings
     @ridings ||= begin
       response_ridings = response["boundaries_centroid"] | response["boundaries_concordance"]
       ridings = []; response_ridings.each do |riding|
-        ridings << {riding_name: riding["name"], riding_id: riding["external_id"]}
+        ridings << {name: riding["name"], id: riding["external_id"]}
       end
       ridings
     end
@@ -31,16 +39,37 @@ class RepresetPostalCodeConcordance
     HTTParty.get("http://represent.opennorth.ca/postcodes/#{postal_code}",
         query: {sets: "federal-electoral-districts"})
   end
+
+  def not_found?
+    response.response.code == "404"
+  end
 end
 
-all_pcodes = CSV.read('test_postal_codes.csv')
-all_pcodes.flatten!
+def complete_record(incomplete_record, riding, concord)
+  lat = incomplete_record[:latitude] || concord.latitude
+  long = incomplete_record[:longitude] || concord.longitude
+  city = incomplete_record[:city] || concord.city
+  province = incomplete_record[:province] || concord.province
 
-CSV.open('test_postal_code_geo_riding_concordance.csv', 'w') do |csv|
-  all_pcodes.each do |code|
-    concordance = RepresetPostalCodeConcordance.new(code)
+  [incomplete_record[:postal_code], riding[:id], riding[:name], lat, long, city, province]
+end
+
+CSV::Converters[:na_to_nil] = Proc.new {|val| val == "NA" ? nil : val}
+complete_cases = CSV.open(
+  '1_merge_output/test_complete_cases.csv', 'a',
+  {quote_char: '"', force_quotes: true}
+)
+
+CSV.foreach(
+  '1_merge_output/test_incomplete_cases.csv',
+  headers: true, header_converters: :symbol,
+  converters: :na_to_nil
+) do |record|
+  concordance = RepresetPostalCodeConcordance.new(record[:postal_code])
+  unless concordance.not_found?
     concordance.ridings.each do |riding|
-      csv << [code, concordance.city, concordance.province, riding[:riding_name], riding[:riding_id]]
+      complete_cases << complete_record(record, riding, concordance)
     end
   end
 end
+complete_cases.close
