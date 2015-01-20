@@ -3,12 +3,6 @@ library("stringr")
 
 source("constants.R")
 
-set_column_names <- function(data_set)
-{
-    colnames(data_set) <- column_names
-    data_set
-}
-
 clean_char_columns <- function(data_set)
 {
   within(data_set, {
@@ -58,3 +52,17 @@ adjust_errant_dates <- function(data_set, current_year)
       GetoptLong::qq("@{current_year}-%m-%d"))
   })
 }
+
+find_contributors_riding_for_ambiguous_postal_code <-
+  function(contribution, concordance)
+  {
+    pcode_matches <- concordance[concordance$postal_code %in% contribution$postal_code,]
+    target_riding_match <- pcode_matches[
+      pcode_matches$contributor.riding_id == contribution$target.riding_id,]
+    ifelse (
+      nrow(target_riding_match) > 0,
+      match <- target_riding_match[1,],
+      match <- pcode_matches[1, ]
+    )
+    merge(contribution, match)
+  }

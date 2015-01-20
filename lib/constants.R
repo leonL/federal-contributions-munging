@@ -1,6 +1,11 @@
-column_names <-
+raw_data_column_names <-
   c("party_riding", "id", "full_name", "contribution_date.ec",
     "contribution_amount", "city", "province", "postal_code")
+pcode_riding_geo_col_names <-
+  c("postal_code", "contributor.riding_id", "contributor.riding_name",
+    "pcode.latitude", "pcode.longitude", "city", "province")
+riding_name_concordance_col_names <-
+  c("party_riding", "target.riding_name", "target.riding_id")
 official_party_names <-
   c(Bloc="Bloc Québécois",
     Conservative="Conservative Party of Canada",
