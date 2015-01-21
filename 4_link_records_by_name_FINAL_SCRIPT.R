@@ -9,7 +9,7 @@ dir.create(target_dir_name)
 munged_data_dir_name <- "munged_data"
 dir.create(munged_data_dir_name)
 
-source_dir_name <- "3_contributors_riding_output"
+source_dir_name <- "1_contributors_riding_output"
 data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{all_data_csv_file_name}"), encoding="UTF-8")
 
 print("Subsetting unique names by postal code...")
