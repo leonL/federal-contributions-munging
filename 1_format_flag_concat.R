@@ -74,6 +74,12 @@ valid_pcodes_bool <- data_set$postal_code %in% valid_postal_codes
 data_set_with_invalid_pcodes <- data_set[!valid_pcodes_bool, ]
 data_set <- data_set[valid_pcodes_bool, ]
 
+print("Wrtie data with invalid pcodes as separate CSV...")
+write.csv(
+  data_set_with_invalid_pcodes,
+  file=GetoptLong::qq("@{target_dir_name}/contributions_with_invalid_postal_codes.CSV"),
+  row.names=FALSE
+)
 
 print("Merge in contributor riding data for riding contribs with ambiguous pcodes...")
 concord_pcodes <- postal_code_riding_geo_concordance$postal_code
@@ -109,7 +115,7 @@ contribs_w_unique_pcodes_merged <-
 
 data_set <- rbind(contribs_w_unique_pcodes_merged, contribs_w_ambgus_pcodes_merged)
 
-# write munged and concatenated data set to CSV
+print("Wrtie munged data set as CSV...")
 write.csv(
   data_set,
   file=GetoptLong::qq("@{target_dir_name}/@{all_data_csv_file_name}"),
