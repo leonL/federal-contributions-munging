@@ -4,12 +4,12 @@ source("lib/record_linking.R")
 library("GetoptLong")
 library("RecordLinkage")
 
-target_dir_name <- "4_link_records_by_name_output"
+target_dir_name <- "2_link_records_by_name_output"
 dir.create(target_dir_name)
 munged_data_dir_name <- "munged_data"
 dir.create(munged_data_dir_name)
 
-source_dir_name <- "1_contributors_riding_output"
+source_dir_name <- "1_clean_transform_merge_output"
 data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{all_data_csv_file_name}"), encoding="UTF-8")
 
 print("Subsetting unique names by postal code...")
