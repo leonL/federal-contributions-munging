@@ -12,3 +12,6 @@
 [0-9]*/
 
 munged_data/all_contributions_2004_to_2013.csv
+
+.Rproj.user
+munging.Rproj
