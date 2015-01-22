@@ -5,7 +5,7 @@ library("GetoptLong")
 library("plyr")
 library("dplyr")
 
-target_dir_name <- "1_clean_transform_merge"
+target_dir_name <- "1_clean_transform_merge_output"
 dir.create(target_dir_name)
 
 # source_dir_name <- "0_test_raw_data" # DO NOT COMMIT THIS LINE IF IT IS UNCOMMENTED
