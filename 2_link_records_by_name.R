@@ -1,8 +1,9 @@
 source("lib/constants.R")
-source("lib/record_linking.R")
+source("lib/record_linking/normalize_names.R")
+source("lib/record_linking/probable_name_matches.R")
 
-library("GetoptLong")
-library("RecordLinkage")
+library(GetoptLong)
+library(plyr); library(dplyr)
 
 target_dir_name <- "2_link_records_by_name_output"
 dir.create(target_dir_name)
@@ -20,37 +21,8 @@ print("Normalizing unique contribtutor names...")
 normed_names <- normalize_names(unique_name_and_postal$full_name)
 unique_normed_names_and_postal <- cbind(unique_name_and_postal, normed_names)
 
-print("Calculating contributor name string distances...")
-link_probabilities <- compare.linkage(
-  unique_normed_names_and_postal, unique_normed_names_and_postal,
-  blockfld="postal_code",
-  exclude=c("full_name", "postal_code", "last_name", "first_name", "remaining"),
-  strcmp="clean_full_name"
-)
-print("Calculating link probabilities using epiLink algo...")
-link_probabilities <- epiWeights(link_probabilities)
-
-print("Classifying link probabilities...")
-link_probabilities <- epiClassify(link_probabilities, 0.8)
-
-# define a subset of record pairs that are probable links
-probable_links <- with(link_probabilities, {
-  pairs[prediction == "L", 1:2]
-})
-
-print("Remove self-referential links...")
-probable_links <- probable_links[probable_links$id1 != probable_links$id2, ]
-# remove inverted pairs
-links_row_index <- 1
-total_inversions <- nrow(probable_links) / 2
-repeat
-{
-  if (links_row_index > nrow(probable_links)) { break }
-  print(GetoptLong::qq("Removing inversion @{links_row_index} of about @{total_inversions}"))
-  duplicate_row <- which(probable_links[links_row_index, 1] == probable_links[, 2] & probable_links[links_row_index, 2] == probable_links[, 1])
-  probable_links <- probable_links[-duplicate_row,]
-  links_row_index <<- links_row_index + 1
-}
+print("Match similiar names...")
+probable_links <- probable_name_matches(unique_normed_names_and_postal)
 
 # record contributor links by setting ids
 print("assigning unique ids to linked names...")
