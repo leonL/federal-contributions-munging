@@ -64,33 +64,3 @@ normalize_names <- function(full_names){
     lapply(FUN=split_names) %>%
     rbind_all
 }
-
-link_contributor_pair_counter <- 1
-link_contributor_pair <- function(pair) {
-  r1_row_num <- pair[1]
-  r2_row_num <- pair[2]
-  contrib_ids <- unique_name_and_postal$contributor_id
-
-  matched_names <- unique_name_and_postal$full_name[c(r1_row_num, r2_row_num)]
-  print(GetoptLong::qq("Linking @{matched_names[1]} with @{matched_names[2]}"))
-
-  if (is.na(contrib_ids[r1_row_num])) {
-    if (is.na(contrib_ids[r2_row_num])) {
-      contrib_ids[c(r1_row_num, r2_row_num)] <- next_unique_contrib_id
-      print(GetoptLong::qq("Defining new contributor_id: @{next_unique_contrib_id}"))
-      next_unique_contrib_id <<- next_unique_contrib_id + 1
-    } else {
-      contrib_ids[r1_row_num] <- contrib_ids[r2_row_num]
-    }
-  } else {
-    if (is.na(contrib_ids[r2_row_num])) {
-      contrib_ids[r2_row_num] <- contrib_ids[r1_row_num]
-    } else {
-      contrib_ids[contrib_ids == contrib_ids[r2_row_num]] <- contrib_ids[r1_row_num]
-    }
-  }
-  print(GetoptLong::qq("@{link_contributor_pair_counter} of @{total_probable_links} links defined..."))
-  link_contributor_pair_counter <<- link_contributor_pair_counter + 1
-  unique_name_and_postal$contributor_id <<- contrib_ids
-  NULL
-}

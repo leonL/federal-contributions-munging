@@ -1,4 +1,4 @@
-probable_name_matches <- function(names_by_pcode) {
+find_probable_name_matches <- function(names_by_pcode) {
 
   library(RecordLinkage)
   library(plyr)
@@ -37,4 +37,19 @@ smallest_first <- function(row) {
   } else {
     row
   }
+}
+
+link_contributors_by_id <- function(ids) {
+  ids <- unique(as.vector(as.matrix(ids)))
+  current_ids <- unique_name_and_postal$contributor_id[ids]
+  if (!any(is.na(current_ids))) { return() }
+  current_ids <- current_ids[!is.na(current_ids)]
+  contrib_id <-
+    if (length(current_ids) > 0) {
+      current_ids[1]
+    } else {
+      ids[1]
+    }
+  unique_name_and_postal$contributor_id[ids] <<- contrib_id
+  return()
 }
