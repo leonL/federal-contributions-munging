@@ -1,0 +1,29 @@
+#--------------------------------------------------------------------------
+# Firstname Substitution
+# Designed by Team: Alex, Marius, Tri, Victor - Data4Good Datahon Dec2014
+# Format:
+# - The "Reference" firstname followed by an unbound list of variations (1 or more), comma delimited
+#   Exampe: Alan,Allan,Allen,Allouette,Alelua
+# - Case INsensitive
+# - Space accepted (because they will be ignored)
+# - No need to order alphabetically
+# - In case of duplicated Firstname (starting from 2nd position)
+#   only the first is used, all duplicates will be ignored
+#--------------------------------------------------------------------------
+- Bogus Line (leading char is non-alpha) will be ignored
+  Word alone (no comma) will be ignored
+Daniel,Dan
+Kenneth,Ken
+Kenneth,Ken2,Ken3 #---> Duplic of Reference Firstname, this entire line will be ignored
+Alexander, Alexandre, Alex
+Alan,Allan,Allen
+Mary,Marie,Maria
+Michael,Mike,Mikael,Michel
+Philips,Philippe,Phil
+Thomas,Tom
+  Tristan, TriTheMonster #---> inline comment & leading spaces: all will be ignored
+Victor,Viktor,Vic,Vik, MIKE #---> NOTE: MIKE is duplicated and will be ignored
+David,Davy
+Frederic, Fred, Frederik
+Christopher,Chris,Christophe,Christian
+Peter, Pete, Pet
