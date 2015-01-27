@@ -27,6 +27,10 @@ print("assigning unique ids to linked names...")
 unique_name_and_postal$contributor_id <- NA
 side_effect <- dlply(probable_links, .(id1), link_contributors_by_id); rm(side_effect)
 
+print("saving list of link names")
+linked_names <- filter(unique_name_and_postal, !is.na(contributor_id))
+write.csv(linked_names, file=GetoptLong::qq("@{target_dir_name}/linked_unique_names.CSV"), row.names=FALSE)
+
 # set ids for all the unique names that were not matched
 print("assigning unique ids to remaning unique names...")
 number_without_id <- nrow(unique_name_and_postal[is.na(unique_name_and_postal$contributor_id),])
